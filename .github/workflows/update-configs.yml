@@ -21,6 +21,7 @@ jobs:
       with:
         go-version: '1.21'
         cache: true
+        cache-dependency-path: Files/go.mod
         
     - name: Build and run Go aggregator
       run: |
