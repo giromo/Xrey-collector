@@ -30,7 +30,6 @@ var protocols = []string{"vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic",
 
 var links = []string{
 	"https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
-	"https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
 	"https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt",
 	"https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt",
 	"https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_3.txt",
