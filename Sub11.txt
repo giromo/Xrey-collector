@@ -2,21 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
-vless://2ea68c62-18b4-4951-a027-d988a2d7be68@11.ariyanln.com:1?security=none&encryption=none&headerType=http&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
-vless://2e700ecb-c913-4711-8078-2d50344a1559@93.115.240.74:15600?path=/&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
-vless://2e428d06-68f7-42e7-a5ba-909b7c08b211@cumhuriyet.com.tr:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbotخرید سرور شخصی
-vless://2e1ed3b2-b431-4480-c1eb-076731360266@speed.sarazirsina.site:43890?type=tcp&security=tls&fp=&alpn=h2,http/1.1&sni=speed.sarazirsina.site#MKH 2--Free 20GB-@cconfig_v2ray
-vless://2e18f22d-db34-4ac2-b190-47849c185ac5@fr.aerogd.org:443?security=reality&encryption=none&pbk=OMjorrdIZKdYHwNtHQKQCaJFNLsHumS1IdhZnioDeBk&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zjvjk4.workspacefiles.com&sid=aaca94aa121ab49d#@i10VPN 🚀| با ما متصل بمون⚡
-vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#r♡yaッ
-vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
-vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
-vless://2dfaf419-a68d-41b0-9b8e-d9c5bb98a8fa@193.3.182.246:443?type=tcp&security=none#𝒃𝒐𝒍𝒃𝒐𝒍𝒗𝒑𝒏-@bolbolvpn  👈 چنل ما1
-vless://2de868a2-21e1-409c-b901-ac87779f57e4@m74a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://2de868a2-21e1-409c-b901-ac87779f57e4@m74a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#[🇫🇮]
 vless://2de868a2-21e1-409c-b901-ac87779f57e4@m74a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel : @EXPRESSVPN_420 🏴🏳
 vless://2ddbf9ee-6c29-468b-f108-b7f2057797a8@37.156.47.23:30583?security=&type=ws&path=/&encryption=none#@awlix_ir
@@ -502,3 +487,18 @@ vless://112a4903-1cc3-4d30-9f3e-ff8e53e06643@nl-3.aliusvpn.ru:8443?security=real
 vless://112a4903-1cc3-4d30-9f3e-ff8e53e06643@lb.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&host=/@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wikiportal.su&sid=44103f58#لطفا مارو به دوستانتون معرفی کنید 🤍
 vless://112a4903-1cc3-4d30-9f3e-ff8e53e06643@fi.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&host=/@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wikiportal.su&sid=44103f58#⚡@Takv2ray_org | FL 🇫🇮
 vless://112a4903-1cc3-4d30-9f3e-ff8e53e06643@de.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&host=/@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wikiportal.su&sid=44103f58#⚡@Takv2ray_org | DE 🇩🇪
+vless://112a4903-1cc3-4d30-9f3e-ff8e53e06643@109.107.189.165:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&host=/@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wikiportal.su&sid=44103f58#⚡@Takv2ray_org | RU 🇷🇺
+vless://11296c5f-93b7-5655-8704-f6d82e33d9f3@194.147.34.72:443?path=/vless&security=tls&encryption=none&host=194.147.34.72&fp=chrome&type=ws&sni=zula.ir#@Selinc
+vless://1127fc22-993c-420b-897e-38b1dd21b629@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://1127fc22-993c-420b-897e-38b1dd21b629@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#💎 @AblNet7 💎
+vless://110ac6e9-f62b-5bd3-9d74-adbb4ec62f65@95.215.8.25:443?path=/vless&security=tls&encryption=none&host=95.215.8.25&fp=chrome&type=ws&sni=zula.ir#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://110ac6e9-f62b-5bd3-9d74-adbb4ec62f65@95.215.8.25:443?path=/vless&security=tls&encryption=none&host=95.215.8.25&fp=chrome&type=ws&sni=zula.ir#@Selinc
+vless://11095ae0-328d-4cff-bbb6-edebffb1cdf2@172.104.241.197:443?mode=auto&path=/xhttp&security=reality&encryption=none&pbk=qVBHkOW1vDofQ0IjHz7kBvg2TSuGJqQAhdNH_4NyuQ8&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com&sid=38e40d5b#@Selinc
+vless://10e72fbe-78c9-483b-9ddd-26b33ecd02f6@87.120.205.76:1002?mode=auto&path=/Api/AS&security=reality&encryption=none&extra={"scMaxEachPostBytes": 750000, "scMaxConcurrentPosts": 40, "scMinPostsIntervalMs": 20, "xPaddingBytes": "500-1500", "noGRPCHeader": false}&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik&fp=chrome&type=xhttp&sni=cdn.jsdelivr.net#@Selinc
+vless://10b1f4a3-63a7-46b4-f05a-023542f0dc11@87.107.144.71:54465?security=none&encryption=none&headerType=none&type=tcp#@Mrconfig_Channel 🩵
+vless://10aca91a-6e44-46cb-a890-ea246400c0a7@185.236.37.23:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn2.azkhaktakhane.ir#Telegram : @Alfa_v2ray_ng 🔥
+vless://10aca91a-6e44-46cb-a890-ea246400c0a7@185.236.37.23:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn2.azkhaktakhane.ir#@i10VPN 🚀| با ما متصل بمون⚡
+vless://10aca91a-6e44-46cb-a890-ea246400c0a7@185.236.37.23:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn2.azkhaktakhane.ir#@IRAN_V2RAY1
+vless://10aca91a-6e44-46cb-a890-ea246400c0a7@185.236.37.23:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn2.azkhaktakhane.ir#@Dropcube⚡❤️‍🔥
+vless://10a4f333-7537-443a-8053-230068b7cdcb@104.26.15.69:8880?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
+vless://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:443?type=httpupgrade&host=chervhill.hajalii.com&path=/uEUomzcEAZ5S0uJX2dp9up&security=tls&fp=chrome&sni=chervhill.hajalii.com&alpn=http/1.1#@Mr_Config_Group✌️
