@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928668169310838.rasht-drc-tusabp.info:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @Hddify
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928668169310838.rasht-drc-tusabp.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638927678654211750.rasht-drc-tusabn.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇵@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638925841028493287.berlin-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638925841028493287.berlin-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#@EXPRESSVPN_420:🇫🇷
@@ -502,3 +500,5 @@ vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.211.213:443?mode=stream-one&p
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.211.213:443?mode=stream-one&path=/rf&security=&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.146.68:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.146.68:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#@Selinc
+vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.46.139:443?note=JOIN----@AZADIV2RAYY----JOIN----@AZADIV2RAYY----JOIN---@AZADIV2RAYY-‐-JOIN---@AZADIV2RAYY-----bia-‐--@AZADIV2RAYY---Bia---@AZADIV2RAYY&mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#AZADIV2RAYY DE 🇩🇪
+vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.46.139:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
