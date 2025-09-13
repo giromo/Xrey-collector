@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://3c918c19-a5bd-4f2c-9b30-03c681c93ddc@172.66.47.140:8443?path=/WwPEDup8yShFB1Wp/NzguNDYuNzMuNDk=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2rayminer.pages.dev&fp=chrome&type=ws&sni=V2RayMinER.PAGeS.Dev#Telegram : @Alfa_v2ray_ng 🔥
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@77.81.65.10:443?security=reality&encryption=none&pbk=SkPIAkSI8R1LY1hynsZZcxKkPmJKU11DAMncccLEdjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[🇩🇪]
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@77.81.65.10:443?security=reality&encryption=none&pbk=SkPIAkSI8R1LY1hynsZZcxKkPmJKU11DAMncccLEdjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#Telegram : @Alfa_v2ray_ng 🔥
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@77.81.65.10:443?security=reality&encryption=none&pbk=SkPIAkSI8R1LY1hynsZZcxKkPmJKU11DAMncccLEdjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@HiByeVPNN👈⚡❤️‍🔥
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@77.81.65.10:443?security=reality&encryption=none&pbk=SkPIAkSI8R1LY1hynsZZcxKkPmJKU11DAMncccLEdjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@Dropcube
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@5.181.168.10:1443?security=reality&encryption=none&pbk=pFIyqIJ6RKofhtXRZJ0kcxPIolBHtDIcDYd5KvttUSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -502,3 +499,6 @@ vless://26b34533-c067-4f30-b33f-029809a3b030@speedtestcustom.com:80?path=/-LiV2r
 vless://26b34533-c067-4f30-b33f-029809a3b030@speedtestcustom.com:80?path=-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#Telegram@ConfingV2RaayNG
 vless://268df26e-91c6-4e19-e4bd-d7b0af6ebad6@94.182.92.108:440?path=/&security=none&encryption=none&type=ws#@CaV2ray ⚡️
 vless://26633f0a-9081-4a11-8cdd-f3db06dae685@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=G.lightning2025.top&type=ws#tm⚡|@lightning6
+vless://2650893f-269a-417e-8881-a852970f336a@Free.Connection.rptmsvmvm.top:8080?security=reality&encryption=none&pbk=b2B8-RSRh4QIIvs3UiqbWmz_50oSm8vSANP0km-MygA&headerType=none&fp=chrome&spx=/&type=tcp&sni=journalofbigdata.springeropen.com&sid=c7c386c0#با ۵۰ تومن سرور اختصاصی بخر راحت شو
+vless://261c4457-9d81-45a8-b519-b704d642d077@speedtest.net:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=iran.book.library.ir&type=xhttp#۳۰ گیگ ۹۵ تومن بخر راحت شو
+vless://261c4457-9d81-45a8-b519-b704d642d077@speedtest.net:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=iran.book.library.ir&type=xhttp#۳۰ گیگ ۹۵ تومن بخ

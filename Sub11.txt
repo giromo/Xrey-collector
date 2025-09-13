@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d17.ALanhIAhO.COM&type=ws&sni=d17.ALanhIAhO.COM#@IRAN_V2RAY1
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d17.ALanhIAhO.COM&type=ws&sni=d17.ALanhIAhO.COM#@Dropcube
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d15.alanhiAhO.cOm&type=ws&sni=d15.alanhiAhO.cOm#[🇨🇦]
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d15.alanhiAhO.cOm&type=ws&sni=d15.alanhiAhO.cOm#@HiByeVPNN👈⚡❤️‍🔥
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d13.aLANHIaho.Com&type=ws&sni=d13.aLANHIaho.Com#@bad_raqs
@@ -491,7 +489,6 @@ vless://3cd0bf9c-1d1d-477f-89a1-eb60276ac5f3@www.speedtest.net:8080?path=/@Shh_P
 vless://3cc281c5-12ba-4b7f-b3cb-dffaead2e41b@free.mizbandana.org:443?security=reality&encryption=none&pbk=ISrfUELe0qT8oErISq19eLFM4VqFgkeiz5RWAA0t5FM&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=7a8117b83a6a3b45#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🇩🇪@FreakConfig
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#⚡️@Takv2ray_org | All 🇩🇪²
-vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#[🇨🇦]ae_proxy
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beLoveD-faILure.SeOtOOLsForyOu.Co.uk:80?path=/?ed=2048Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=none&encryption=none&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beLoveD-faILure.SeOtOOLsForyOu.Co.uk:80?path=/&security=none&encryption=none&type=ws#🇩🇪 | @External_Net
@@ -502,3 +499,6 @@ vless://3c918c19-a5bd-4f2c-9b30-03c681c93ddc@www.speedtest.net:443?security=tls&
 vless://3c918c19-a5bd-4f2c-9b30-03c681c93ddc@www.speedtest.net:443?path=/Join---planB_proxy---BIA---planB_proxy---BIA---planB_proxy---BIA---planB_proxy=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2rayminer.pages.dev&fp=chrome&type=ws&sni=V2RaYmiNEr.PaGES.dEv#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://3c918c19-a5bd-4f2c-9b30-03c681c93ddc@www.speedtest.net:443?path=/Join---planB_proxy---BIA---planB_proxy---BIA---planB_proxy---BIA---planB_proxy=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2rayminer.pages.dev&fp=chrome&type=ws&sni=V2RaYmiNEr.PaGES.dEv#Telegram : @Alfa_v2ray_ng 🔥
 vless://3c918c19-a5bd-4f2c-9b30-03c681c93ddc@www.speedtest.net:443?path=/Join---planB_proxy---BIA---planB_proxy---BIA---planB_proxy---BIA---planB_proxy=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2rayminer.pages.dev&fp=chrome&type=ws&sni=V2RaYmiNEr.PaGES.dEv#@Dropcube
+vless://3c918c19-a5bd-4f2c-9b30-03c681c93ddc@172.66.47.140:8443?path=/WwPEDup8yShFB1Wp/NzguNDYuNzMuNDk=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2rayminer.pages.dev&fp=chrome&type=ws&sni=V2RayMinER.PAGeS.Dev#Telegram : @Alfa_v2ray_ng 🔥
+vless://3c7a1227-5383-3a19-7084-76624ec8f84f@77.81.65.10:443?security=reality&encryption=none&pbk=SkPIAkSI8R1LY1hynsZZcxKkPmJKU11DAMncccLEdjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[🇩🇪]
+vless://3c7a1227-5383-3a19-7084-76624ec8f84f@77.81.65.10:443?security=reality&encryption=none&pbk=SkPIAkSI8R1LY1hynsZZcxKkPmJKU11DAMncccLEdjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#Telegram : @Alfa_v2ray_ng 🔥
