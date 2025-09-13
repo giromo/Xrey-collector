@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
+vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.213.128:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
+vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.213.128:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.211.213:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.211.213:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#[🇩🇪]
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.211.213:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
@@ -401,8 +403,6 @@ vless://b376bbd9-9306-496f-8f19-ff438b21c100@172.66.40.99:80?encryption=none&sec
 vless://b37596da-6f80-4dcd-f75c-c3c7b25922da@www.speedtest.net:8080?type=ws&host=Unlimiteddev-join.paradoxone.IR&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link2
 vless://b37596da-6f80-4dcd-f75c-c3c7b25922da@numberland.ir:8080?type=ws&host=Unlimiteddev-join.paradoxone.IR&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link1
 vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@cloud.sarasimano.com:80?path=/&security=none&encryption=none&host=onlytesla4.sarasimano.com&type=ws#🚀کانال تلگرام : injastvpn@
-vless://b357d11e-48ff-483f-969e-e72c380341f5@165.232.33.67:8440?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇬🇧@EVAY_VPN
-vless://b357d11e-48ff-483f-969e-e72c380341f5@128.199.45.153:8440?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇳🇱@EVAY_VPN
 vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?security=none&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?security=none&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#🇫🇮@FreakConfig
 vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?security=none&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#All-@IRAN_V2RAY1

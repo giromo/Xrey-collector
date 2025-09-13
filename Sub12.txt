@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
+vless://3c1d4f53-a6ba-407b-911a-ea195f4201c2@172.67.73.216:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇺🇸🇺🇸
+vless://3bebc077-0d92-4832-9ae4-c0820a673b9e@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=Zilor.ir&type=ws#@CaV2ray ⚡️
 vless://3be9e3cf-83cd-4618-b782-1b2a9a72bbec@172.67.203.57:443?path=/z0HrW-43pVRvOrQE?ed&security=tls&encryption=none&host=TEl-ppAL03.CHayA-DuRGAN.WoRkers.dEv&fp=chrome&type=ws&sni=TEl-pPAL03.chayA-duRGaN.workeRs.DeV#Telegram : @Alfa_v2ray_ng 🔥
 vless://3bcc6dbf-0ab4-4674-85c8-39bd994434f9@s3.esrtz.onl:46470?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@FergalVpnMod All
 vless://3bcc6dbf-0ab4-4674-85c8-39bd994434f9@ir238.cdnscloud.org:7777?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#@FergalVpnMod All
@@ -500,5 +502,3 @@ vless://22facc17-dda1-4000-9b45-b56fee01ae6d@91.107.144.71:54250?security=realit
 vless://22f453f0-1e05-4ba0-a0a8-1dad457b7c37@traxex.fonixapp.org:39352?security=reality&encryption=none&pbk=bqBZxwknIQGVNxvW6agjANLI6jdKG8jgIJ6cLKBbjns&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=8f#Telegram : @Alfa_v2ray_ng 🔥
 vless://22f453f0-1e05-4ba0-a0a8-1dad457b7c37@85.9.207.84:39352?security=reality&encryption=none&pbk=bqBZxwknIQGVNxvW6agjANLI6jdKG8jgIJ6cLKBbjns&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=8f#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://22487aa7-8b64-4884-924f-62fd7bf5b28a@iran-81.allazadvipna81.shop:8080?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
-vless://22405d02-ca6a-4bf8-b650-b8024a6a3111@www.speedtest.net:2086?path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&security=&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=mahan.mmadvip8563.ir&type=ws#@ghalagyann
-vless://22405d02-ca6a-4bf8-b650-b8024a6a3111@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=mahan.mmadvip8563.ir&security=none#@ZedBaz_vpn
