@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://@Geek_Spot@176.97.210.2:37589?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://@Geek_Spot@176.97.210.2:37589?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://@Geek_Spot@176.97.210.2:37589/?type=tcp&encryption=none#🇺🇦 Ukraine 1
 vless://9feccfe8-4f8d-4c28-adb0-c016ce8455b8@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46173-1
@@ -502,3 +501,4 @@ vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.21.54.198:8880?path=/HBRQp44s2A
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#@Selinc
 vless://7e9142ad-b378-4c42-982e-1a3f866b00ea@de.hpcdn.info:443?encryption=none&security=tls&sni=afrodita.lemoex.blog&fp=chrome&type=httpupgrade&host=afrodita.lemoex.blog&path=/1002/mmad#@Mrconfig_Channel 🩵
+vless://7e794f8d-3438-4277-a77a-ffdfd1374ca4@185.146.173.39:2052?path=/wsmmad&security=none&encryption=none&host=Fn.lemoex.ir.&type=ws#🇫🇮@FreakConfig

@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://0ed2efd9-5c30-4bb3-985b-4e2bac8bd9f0@NLpizza.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=chrome&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#@CaV2ray ⚡️
-vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?path=/eJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026.zanddynastyofpersia.org#Channel id: @ShadowProxy66 🇩🇪
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#@i10VPN 🚀| با ما متصل بمون⚡
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#All-@IRAN_V2RAY1
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#@i10VPN 🚀| با ما متصل بمون⚡
@@ -253,6 +251,7 @@ vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&pa
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=none&encryption=none&host=Join---PLANB-PROXY&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=none&encryption=none&host=JOIN---PLANB_PROXY&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=&encryption=none&host=Join---PLANB-PROXY&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
+vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.221.2:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.221.2:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#[🇩🇪]
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.221.2:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@HiByeVPNN👈⚡❤️‍🔥
 vless://000aab6e-553b-4de8-93ef-cca2878f7cec@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=mahan.mmadvip8563.ir&security=none#@ZedBaz_vpn
@@ -379,7 +378,6 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6697#@awlix_ir
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#@awlix_ir
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.135:8090#@awlix_ir
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8000#@awlix_ir
-ss://YWVzLTI1Ni1nY206OTQyZDZkOTctMjExNy00YjBjLThjY2ItYWRiOTI2NTY5MmQ2@45.134.13.75:443#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 ss://YWVzLTI1Ni1nY206OFdETFNDVklGQjRJMjZHQg==@154.196.244.21:16011#@awlix_ir
 ss://YWVzLTI1Ni1nY206ODRhOWNhMTgtN2M5Mi00YjEyLThiZGUtNDI4NDRiNzVjZDVi@128.199.56.167:8443#🇳🇱@FreakConfig
 ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA==@45.129.2.145:20291#@vpnserverrr
@@ -442,6 +440,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#@AYMH19 کانال تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxMjZaTHhESTBWSGlBUjJ1S1V2RE96@197.140.142.74:8443#🇩🇿 Boumerdas, 35, Algeria
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxMjZaTHhESTBWSGlBUjJ1S1V2RE96@197.140.142.74:8443#[🏁]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVzlYeVBxeHRTWDE=@62.133.63.18:443#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVzlYeVBxeHRTWDE=@62.133.63.18:443#[🇹🇷]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVFViNFl1U21Qb1NKVDRiWVVZZWUy@83.147.216.70:64519#All_@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVFViNFl1U21Qb1NKVDRiWVVZZWUy@83.147.216.70:64519#@AYMH19 کانال تلگرام
@@ -469,6 +468,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#@CodeClubiR Join us
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#🇳🇱@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#All_@IRAN_V2RAY1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#All-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@IRAN_V2RAY1

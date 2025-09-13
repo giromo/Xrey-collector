@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://3cdd66cf-a0ff-4db6-a097-1a46f42010dd@209.38.42.122:2027?security=&encryption=none&headerType=none&type=tcp#@Dropcube
 vless://3cd0bf9c-1d1d-477f-89a1-eb60276ac5f3@www.speedtest.net:8080?path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none&encryption=none&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://3cc281c5-12ba-4b7f-b3cb-dffaead2e41b@free.mizbandana.org:443?security=reality&encryption=none&pbk=ISrfUELe0qT8oErISq19eLFM4VqFgkeiz5RWAA0t5FM&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=7a8117b83a6a3b45#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🇩🇪@FreakConfig
@@ -388,7 +387,6 @@ vless://2e1ed3b2-b431-4480-c1eb-076731360266@speed.sarazirsina.site:43890?type=t
 vless://2e18f22d-db34-4ac2-b190-47849c185ac5@fr.aerogd.org:443?security=reality&encryption=none&pbk=OMjorrdIZKdYHwNtHQKQCaJFNLsHumS1IdhZnioDeBk&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zjvjk4.workspacefiles.com&sid=aaca94aa121ab49d#@i10VPN 🚀| با ما متصل بمون⚡
 vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
 vless://2dfaf419-a68d-41b0-9b8e-d9c5bb98a8fa@193.3.182.246:443?type=tcp&security=none#𝒃𝒐𝒍𝒃𝒐𝒍𝒗𝒑𝒏-@bolbolvpn  👈 چنل ما1
-vless://2de868a2-21e1-409c-b901-ac87779f57e4@m74a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://2de868a2-21e1-409c-b901-ac87779f57e4@m74a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#[🇫🇮]
 vless://2de868a2-21e1-409c-b901-ac87779f57e4@m74a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel : @EXPRESSVPN_420 🏴🏳
 vless://2ddbf9ee-6c29-468b-f108-b7f2057797a8@37.156.47.23:30583?security=&type=ws&path=/&encryption=none#@awlix_ir
@@ -502,3 +500,5 @@ vless://280539b0-05e1-4192-b37d-e647c4fca511@172.66.40.99:80?path=/telegram-CONF
 vless://27b61a3e-ef8c-4bc8-923f-f4ac433d1056@157.230.16.250:50395?type=kcp&headerType=none&seed=K1nVjOzkLe&security=none#کانال ما @MrConfig_Channel🎴
 vless://278ac6d3-49b0-4a52-ae3c-7f19970942fa@86.104.74.238:443?path=/wflhdtws&security=tls&encryption=none&fp=chrome&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://276a6072-3b0c-4ddb-bb33-ce14fabc1534@91.99.236.124:51479?security=reality&encryption=none&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg&fp=chrome&spx=/&type=grpc&serviceName=@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&sni=www.cdn77.com#Telegram : @VPN_ROOM 🇩🇪
+vless://275791c2-2fcd-477e-aa34-5fd4aabc0e16@zula.ir:443?security=tls&encryption=none&type=ws&host=foOd.piNoBin.iR.&path=/YwIG9FgZvsHrfa2f?ed=2560&sni=FOod.pinobIN.Ir.&fp=chrome&alpn=h2,http/1.1#Awlix_ir
+vless://27345940-42d5-4508-a803-7c24da1c3080@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
