@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.213.128:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
-vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.213.128:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.211.213:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.211.213:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#[🇩🇪]
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.211.213:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
@@ -35,7 +33,6 @@ vless://c94931cb-077d-42fe-9fbb-21a6c1597658@www.speedtest.net:8880?path=/Nama?e
 vless://c93ad4ba-05d4-4afd-af65-8055bfd84544@sss36322.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://c93ad4ba-05d4-4afd-af65-8055bfd84544@sss36322.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@EXPRESSVPN_420:🇩🇪
 vless://c93ad4ba-05d4-4afd-af65-8055bfd84544@sss36322.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
-vless://c93ad4ba-05d4-4afd-af65-8055bfd84544@91.99.182.151:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#[🇮🇷]
 vless://c93ad4ba-05d4-4afd-af65-8055bfd84544@91.99.182.151:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@HiByeVPNN👈⚡❤️‍🔥
 vless://c93ad4ba-05d4-4afd-af65-8055bfd84544@91.99.122.90:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://c93ad4ba-05d4-4afd-af65-8055bfd84544@91.99.122.90:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@HiByeVPNN👈⚡❤️‍🔥
@@ -75,7 +72,6 @@ vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/maj
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=hwnhp.samsung-funder.info#[🇨🇦]
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=hwnhp.samsung-funder.info#Channel : @Mrsoulb 🏴🏳
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=fegth.samsung-funder.info#سرویس نامحدود ماهانه 49 تومان👈👈دریافت از طریق HiByeVPNN@💎🔥
-vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=fegth.samsung-funder.info#[🇨🇦]
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=fegth.samsung-funder.info#Channel : @Mrsoulb 🏴🏳
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&host=vnjfe.apple-funder.info&type=ws&sni=vnjfe.apple-funder.info#[🇨🇦]
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&host=nsgjh.meta-funder.info&type=ws&sni=nsgjh.meta-funder.info#[🇨🇦]
@@ -502,3 +498,7 @@ vless://ab28b406-0c4b-4923-fe9a-081b6057c9cc@188.114.97.1:80?path=/telegram,@BIN
 vless://ab18a2cd-4177-406e-887b-4cdcdbcae11c@data.dayhostpro.com:30676?security=reality&encryption=none&pbk=teIKeb12hAeLTz12FTLlkmO9nJlvgK73EQyNEmgePXE&host=i.imgcs.net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i.imgcs.net&sid=6fb3c2#🇹🇷 Turkey - Telegram : @FergalVpnMod
 vless://ab18a2cd-4177-406e-887b-4cdcdbcae11c@data.dayhostpro.com:29664?security=reality&encryption=none&pbk=39hNisTO1jyeHalP9eH35ZGgwfGnrYIb28z1nvD0ix0&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=i.imgcs.net&sid=df3d#Telegram: @FergalVpnMod 🇩🇪
 vless://ab18a2cd-4177-406e-887b-4cdcdbcae11c@194.15.52.108:30676?security=reality&encryption=none&pbk=teIKeb12hAeLTz12FTLlkmO9nJlvgK73EQyNEmgePXE&host=i.imgcs.net/?V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS&headerType=none&fp=chrome&spx=/COPE_AZ_JKVPN&type=tcp&flow=xtls-rprx-vision&sni=i.imgcs.net&sid=6fb3c2#Telegram : @Alfa_v2ray_ng 🔥
+vless://ab18a2cd-4177-406e-887b-4cdcdbcae11c@194.15.52.108:30676?security=reality&encryption=none&pbk=teIKeb12hAeLTz12FTLlkmO9nJlvgK73EQyNEmgePXE&host=i.imgcs.net/?&headerType=none&fp=chrome&spx=/@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&type=tcp&flow=xtls-rprx-vision&sni=i.imgcs.net&sid=6fb3c2#🇹🇷 Telegram @ata_connect
+vless://ab18a2cd-4177-406e-887b-4cdcdbcae11c@194.15.52.108:30676?security=reality&encryption=none&pbk=teIKeb12hAeLTz12FTLlkmO9nJlvgK73EQyNEmgePXE&host=i.imgcs.net/?&headerType=none&fp=chrome&spx=/@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&type=tcp&flow=xtls-rprx-vision&sni=i.imgcs.net&sid=6fb3c2#🇹🇷 Telegram @SRCVPN
+vless://aad43aea-6040-43cd-b500-f814347d6816@94.177.147.79:38745?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷@FreakConfig
+vless://aac76e15-76e8-df0c-41a3-74d2d5450043@lightning2025.top:606/?type=ws&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&path=/ws?ed=2048#@Geek_Spot

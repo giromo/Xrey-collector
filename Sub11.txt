@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=D20.alaNhIAhO.coM&type=ws&sni=D20.alaNhIAhO.coM#@Selinc
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=D20.alaNhIAhO.coM&type=ws&sni=D20.alaNhIAhO.coM#@IRAN_V2RAY1
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=D17.aLAnHIaHo.COm&type=ws&sni=D17.aLAnHIaHo.COm#r♡yaッ
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=D17.aLAnHIaHo.COm&type=ws&sni=D17.aLAnHIaHo.COm#[🇨🇦]
 vless://501e344a-0b50-42b9-841f-9aa51fbe3e95@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp#@CaV2ray ⚡️
 vless://50190347-9a85-4386-bd33-98bc5bc238cd@zzzzz.zz.z.zz.zzzzzzz.mizbandana.org:80?security=reality&encryption=none&pbk=n0ZEgbjhlEmpHtlX0khZNVZV3qsGYYXwPztkgyG2xAA&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=53162280ce86#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -120,7 +117,6 @@ vless://4926adf0-880a-4650-bee5-58250416cb40@103.246.145.244:11802?security=real
 vless://491f0cb0-c90d-49d5-8339-5bfc48e7bd00@syntax.leaksfa.com:2589/?encryption=none&host=myket.ir&type=tcp&headerType=http#@Geek_Spot
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&fp=chrome&type=ws#🇩🇪@FreakConfig
 vless://490aed2f-9c4e-43b0-ad77-34583bc335a7@54.36.112.160:38818?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
-vless://48f477f3-906a-4bb6-be96-8201d8a62a6d@104.21.36.57:443?path=/wsv/48f477f3-906a-4bb6-be96-8201d8a62a6d&security=tls&encryption=none&host=banana.fullmargintraders.com&fp=chrome&type=ws&sni=banana.fullmargintraders.com#[🇨🇦]
 vless://48b81d34-df01-4c94-9e34-0ccb4c40c547@185.36.145.227:8888?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#join @Dropcube
 vless://48b81d34-df01-4c94-9e34-0ccb4c40c547@185.36.145.227:8888?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://48b81d34-df01-4c94-9e34-0ccb4c40c547@185.36.145.227:7575?security=none&encryption=none&headerType=none&type=tcp#@Hddify
@@ -502,3 +498,7 @@ vless://3c7a1227-5383-3a19-7084-76624ec8f84f@213.232.123.10:1443?security=realit
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@193.31.127.10:443?security=reality&encryption=none&pbk=ehRbIcN9HhqjhReY1pjqIBGqHCbdY26Kq70_w7k4jgY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[🇺🇸]
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@193.202.12.10:443?security=reality&encryption=none&pbk=BqPcbcS0agCOmW5xem5nQldi_2oGariVJdJZ6Q57810&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[🇺🇸]
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@178.20.215.10:1443?security=reality&encryption=none&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#🇷🇺@FreakConfig
+vless://3c7a1227-5383-3a19-7084-76624ec8f84f@147.78.180.10:443?security=reality&encryption=none&pbk=Ot7NIMwy588LBegSSLxqxzXh9MszA0CxFPHbSAj7PR0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[🇺🇸]
+vless://3c6f7783-e1e4-40b0-b227-1dede937d7b5@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=he10.motorbazan.cOm&type=ws#[🇺🇸]@configLINE(3)
+vless://3c1d4f53-a6ba-407b-911a-ea195f4201c2@172.67.73.216:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇺🇸🇺🇸
+vless://3bebc077-0d92-4832-9ae4-c0820a673b9e@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=Zilor.ir&type=ws#@CaV2ray ⚡️

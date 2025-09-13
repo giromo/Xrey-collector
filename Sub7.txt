@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://ab18a2cd-4177-406e-887b-4cdcdbcae11c@194.15.52.108:30676?security=reality&encryption=none&pbk=teIKeb12hAeLTz12FTLlkmO9nJlvgK73EQyNEmgePXE&host=i.imgcs.net/?&headerType=none&fp=chrome&spx=/@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&type=tcp&flow=xtls-rprx-vision&sni=i.imgcs.net&sid=6fb3c2#🇹🇷 Telegram @ata_connect
-vless://ab18a2cd-4177-406e-887b-4cdcdbcae11c@194.15.52.108:30676?security=reality&encryption=none&pbk=teIKeb12hAeLTz12FTLlkmO9nJlvgK73EQyNEmgePXE&host=i.imgcs.net/?&headerType=none&fp=chrome&spx=/@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&type=tcp&flow=xtls-rprx-vision&sni=i.imgcs.net&sid=6fb3c2#🇹🇷 Telegram @SRCVPN
-vless://aad43aea-6040-43cd-b500-f814347d6816@94.177.147.79:38745?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷@FreakConfig
-vless://aac76e15-76e8-df0c-41a3-74d2d5450043@lightning2025.top:606/?type=ws&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&path=/ws?ed=2048#@Geek_Spot
 vless://aac5267c-93e1-44d2-97a0-be936b98690a@m48a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://aac5267c-93e1-44d2-97a0-be936b98690a@m48a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://aac5267c-93e1-44d2-97a0-be936b98690a@m48a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
@@ -502,3 +498,7 @@ vless://9f8a9503-562a-4c09-87e5-e90c9599e852@Www.Speedtest.net:2052?path=/?ed=20
 vless://9f8a9503-562a-4c09-87e5-e90c9599e852@Www.Speedtest.net:2052?path=/?ed=2048&security=none&encryption=none&host=www.speedtest.net.RealitySec5.iR.&type=httpupgrade#🇫🇷 | France - @EXPRESSVPN_420
 vless://9f8a9503-562a-4c09-87e5-e90c9599e852@Www.Speedtest.net:2052?path=/?ed=2048&security=none&encryption=none&host=www.speedtest.net.RealitySec4.iR.&type=httpupgrade#🇬🇧 | England - @EXPRESSVPN_420
 vless://9f8a9503-562a-4c09-87e5-e90c9599e852@Www.Speedtest.net:2052?path=/?ed=2048&security=none&encryption=none&host=www.speedtest.net.RealitySec3.iR.&type=httpupgrade#🇳🇱 | Netherland - @EXPRESSVPN_420
+vless://9f8a9503-562a-4c09-87e5-e90c9599e852@Www.Speedtest.net:2052?path=/?ed=2048&security=none&encryption=none&host=www.speedtest.net.RealitySec1.iR.&type=httpupgrade#🇩🇪 | @EXPRESSVPN_420 - CloudFlare
+vless://9f6b70a1-ae9a-49ac-b9bd-0e41c99ca23c@edge-resources.cyberscaler.net:8280?security=none&encryption=none&host=assets.global.fastly.net&headerType=http&type=tcp#💎 @AblNet7 💎
+vless://9f6b70a1-ae9a-49ac-b9bd-0e41c99ca23c@edge-resources.cyberscaler.net:8280?security=none&encryption=none&host=assets.global.fastly.net&headerType=http&type=tcp#@Selinc
+vless://9f6b70a1-ae9a-49ac-b9bd-0e41c99ca23c@edge-resources.cyberscaler.net:8280?security=none&encryption=none&host=assets.global.fastly.net&headerType=http&type=tcp#@AblNet7 🇺🇲
