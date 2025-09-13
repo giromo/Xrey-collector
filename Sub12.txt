@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#@i10VPN 🚀| با ما متصل بمون⚡
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#@IRAN_V2RAY1
 vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?security=none&encryption=none&type=ws#@vmesskhodam
 vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:8710?security=none&encryption=none&headerType=none&type=tcp#@AYMH19+کانال+تلگرام
@@ -77,7 +76,6 @@ vless://3d11ab83-5a26-4bde-9883-ec490396703f@82.115.6.101:14915?security=reality
 vless://3d11ab83-5a26-4bde-9883-ec490396703f@82.115.6.101:14915?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&security=reality&encryption=none&pbk=VxVMU7int2JsYtzo5AaGXbg3_3YUmYjx0PXP179N73Y&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0472c30c#AZADIV2RAYY NL
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.67.193:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.67.193:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
-vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.67.193:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.67.193:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.67.193:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.67.193:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#@vmesskhodam
@@ -502,3 +500,5 @@ vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/8.215.59.6-443&security=&encryption=none&host=aio.loophole.Biz.iD&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/8.215.59.6-443&security=&encryption=none&host=aio.loophole.Biz.iD&type=ws#[🇨🇦]ae_proxy
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/8.215.59.6-443&security=&encryption=none&host=aio.loophole.Biz.iD&type=ws#Channel id: @ShadowProxy66 🇨🇦
+vless://2cd455a4-c698-42de-9830-ac628dbe2e26@91.99.70.212:443?type=grpc&serviceName=@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk&fp=chrome&sni=www.cdn77.com&sid=&spx=/#Telegram : @VPN_ROOM 🇩🇪
+vless://2cb6a58c-00df-47e8-be1f-8b2372035b3b@54.36.117.130:25366?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn

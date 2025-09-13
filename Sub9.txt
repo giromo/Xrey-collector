@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.114.25:443?mode=stream-one&path=/d/?@MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.114.25:443?mode=stream-one&path=/d&security=none&encryption=none&type=xhttp#⚡️@Takv2ray_org | 🇺🇸 همه اپراتورها
 vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.98.46.233:443?mode=stream-one&path=/d/?@MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.98.46.233:443?mode=stream-one&path=/d&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://826f524a-cea1-4e44-9b49-3381d13b7593@www.speedtest.net:443?path=/kDPocrIW3Ice02v4&security=tls&alpn=http/1.1&encryption=none&host=fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev&fp=chrome&type=ws&sni=FK31lnDM4w8UJ0YP1dRWLtdtDKO6Y-cu.pages.dEv#@V2RAYNG_1378
@@ -502,3 +500,5 @@ vless://6a35ed9b-051e-4b76-a470-8bb18a03e4e2@188.114.98.68:80?path=/@V2ngFast-@V
 vless://6a2e5e47-7ca3-4217-9e09-b31688e234ef@206.189.124.177:36063?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#🔐 @AblNet7
 vless://6a2e5e47-7ca3-4217-9e09-b31688e234ef@206.189.124.177:36063?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#wi-fi-@iran_v2ray1
 vless://6a2bda17-7dd4-450c-83fb-5ae5db27e04d@51.195.119.75:80?type=ws&host=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&path=/vless/&security=none#🇩🇪 @Evay_vpn
+vless://6a2bda17-7dd4-450c-83fb-5ae5db27e04d@51.195.119.75:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇩🇪 | @External_Net
+vless://6a2bda17-7dd4-450c-83fb-5ae5db27e04d@51.195.119.75:80?encryption=none&security=none&type=ws&host=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&path=/vless/#@AYMH19 کانال تلگرام

@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://101eb13d-1f71-49c8-a46a-7fea72d96a5d@165.22.240.200:80?path=/FREE By Tharuwa (0767597317)&security=none&encryption=none&host=zoom.us&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
-vless://101eb13d-1f71-49c8-a46a-7fea72d96a5d@165.22.240.200:80?path=/FREE By Tharuwa (0767597317)&security=none&encryption=none&host=zoom.us&type=ws#@Dropcube
 vless://101e6a7d-7d10-4859-a626-8a76daab4547@104.18.33.45:443?path=/?ed=2560&security=tls&encryption=none&host=nkAnG2rEpLACE.airlineSHoma.Com&fp=chrome&type=ws&sni=nkAnG2rEpLACE.airlineSHoma.Com#Telegram : @Alfa_v2ray_ng 🔥
 vless://0ffffabd-5622-4eef-90c8-da504ed2c209@noetic.bagsale.click:443?security=none&encryption=none&host=time.ir&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://0ffac2f2-7272-4a4f-b009-3a0e2f1271d0@104.16.157.108:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.Heloisfood.ir&type=httpupgrade#[🇨🇦]ae_proxy
@@ -502,3 +500,5 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.26:38388#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@80.92.204.106:9025#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#@awlix_ir
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#@awlix_ir
