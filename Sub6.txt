@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
+vless://cb5190f9-d041-4699-986d-083387ecc745@www.speedtest.net:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
+vless://cb5190f9-d041-4699-986d-083387ecc745@numberland.ir:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
 vless://cb1aa6c3-c719-4579-b663-295003103fd0@www.speedtest.net:8080?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=WWW.dollardoon.com&type=ws#@v2rayfast_7❤️‍🔥
 vless://cb0c04c9-0ca7-48ed-8f8b-1a1b55a9375a@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://cb0c04c9-0ca7-48ed-8f8b-1a1b55a9375a@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#[🇨🇦]
@@ -500,5 +502,3 @@ vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?security=reality&en
 vless://ad7666ba-a2f0-4bc0-a591-c2b5c71defc8@login.dayhostpro.com:25685?security=reality&encryption=none&pbk=mh8q2kQofhOY1y0L2UWOiJ8OedYKb0G7jD0GK_A0YRs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hoteltonight-test.com&sid=80e33dd85656c7#Telegram: @FergalVpnMod 🇩🇪
 vless://ad537844-b268-49a7-8ab1-70619ca42ecb@servers.xvon.in:5000?mode=gun&security=tls&encryption=none&type=grpc&sni=servers.xvon.in#@EXPRESSVPN_420
 vless://ad523240-c254-41da-b624-07356ffc38eb@190.93.244.170:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=&encryption=none&host=v2ngnet.nanvrfood.ir&type=httpupgrade#🇩🇪 @v2ngnet
-vless://ad22e7bf-91f6-4cd9-9df8-7aba16a5658d@172.66.40.99:8080?path=/Telegram_configMs_Telegram_configMs_Telegram_configMs?ed=2048&security=none&encryption=none&host=K.mangoap.org&type=ws#@bored_vpn
-vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
