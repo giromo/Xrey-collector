@@ -2,6 +2,10 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=d23.AlanhIahO.cOm&type=ws&sni=d23.AlanhIahO.cOm#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=d17.ALanhIAhO.COM&type=ws&sni=d17.ALanhIAhO.COM#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=d15.ALanHIAho.COM&type=ws&sni=d15.ALanHIAho.COM#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=d14.aLaNHiaHO.cOm&type=ws&sni=d14.aLaNHiaHO.cOm#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&type=ws&sni=d15.alanhiAhO.cOm#[🇨🇦]
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&type=ws&sni=d15.alanhiAhO.cOm#Academi_vpn2
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d34.aLaNHiAHO.com&type=ws&sni=d34.aLaNHiAHO.com#[🇨🇦]
@@ -498,7 +502,3 @@ vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&p
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#[🇩🇪]
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram : @Alfa_v2ray_ng 🔥
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#All_@IRAN_V2RAY1
-vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@Dropcube
-vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
-vless://3ce4817f-9bab-47f1-9df5-1b037b35cbed@94.177.147.79:38745?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷@FreakConfig
-vless://3cdd66cf-a0ff-4db6-a097-1a46f42010dd@209.38.42.122:2027?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
