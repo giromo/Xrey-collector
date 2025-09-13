@@ -2,17 +2,11 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://05fa0c4b-7da2-4073-bfb5-a636a805f3b5@138.199.239.38:10138?path=/@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
-vless://05f3181c-ae29-480d-bc66-436f8f959005@91.149.254.149:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#@vpnserverrr- 🇫🇮-F2GXkw
-vless://05f3181c-ae29-480d-bc66-436f8f959005@38.135.122.152:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&host=/TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&headerType=none&fp=chrome&spx=/TELEGRAM_JKVPN&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://05f3181c-ae29-480d-bc66-436f8f959005@38.135.122.152:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#@vpnserverrr- 🇺🇸-F2GXkw (windows)
-vless://05f3181c-ae29-480d-bc66-436f8f959005@194.156.66.29:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#@vpnserverrr- 🇳🇱-F2GXkw (windows)
 vless://05a8836c-5737-45cd-8c21-991cfd7b5e6e@Holn.xmonys.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🇳🇱@FreakConfig
 vless://05a8836c-5737-45cd-8c21-991cfd7b5e6e@Holn.xmonys.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://0592915a-65da-4cd5-9960-cb9329a3c8a1@alman7.turbooserver.ir:55066?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://058ee2d7-e79e-4acc-9996-d62cd275d7b7@freeconfig.fergalvpnmod.com:48388?security=reality&encryption=none&authority=@FergalVpnMod&pbk=YcokCTOrwj0MFEvKZVRZl25esRSF4Rjeq_A5qmboQRE&fp=chrome&spx=/&type=grpc&serviceName=@FergalVpnMod&sni=sony.com&sid=0c63f4c7ea#FREE CONFIG  1👉 @FergalVpnMod-1
 vless://0577389d-b467-4ce0-ac90-87fe581e4701@m70a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?ed=2048Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
-vless://0577389d-b467-4ce0-ac90-87fe581e4701@m70a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇫🇮@FreakConfig
 vless://0577389d-b467-4ce0-ac90-87fe581e4701@m70a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://0577389d-b467-4ce0-ac90-87fe581e4701@m70a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@Hddify
 vless://0577389d-b467-4ce0-ac90-87fe581e4701@m70a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇫🇮@FreakConfig
@@ -420,7 +414,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqODg3TTlEeFd6ZDVKcTk3MWUzWTFC@94.159.96.245:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#Irancell--@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI=@77.83.245.190:443#@Selinc
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoNnZaQk5wYm40MG1KMVpneGw0djZi@64.227.60.3:443#Channel id: @ShadowProxy66🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443#💎 @AblNet7 💎
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY=@5.188.168.230:31348#[🇹🇷] @Hddify
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY=@5.188.168.230:31348#Turkey1🇹🇷@vpnserverrr
@@ -502,3 +495,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfYjZ4NXRmTzF3WlV4T2J1Ul9BSVhn@150.241.86.252
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpac0dqTlk2ZUNCWWw2emZoRk80Z01p@194.87.45.189:443#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZbGVqbFpiVEUyYWhWRkF6TGgydHhm@94.159.96.245:11902#🇩🇪 Frankfurt am Main, HE, Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519?type=tcp#[🇫🇮]@Evay_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#[🇫🇮]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#Irancell--@IRAN_V2RAY1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#@ata_connect
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#@IRAN_V2RAY1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#@AYMH19 کانال تلگرام
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZTmduQ1VVczhxWGdUQW0wcnJPYXZH@172.237.108.207:443#🇬🇧@FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#🇺🇲@FreakConfig

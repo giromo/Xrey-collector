@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://48b81d34-df01-4c94-9e34-0ccb4c40c547@185.36.145.227:8888?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
-vless://48b81d34-df01-4c94-9e34-0ccb4c40c547@185.36.145.227:7575?security=none&encryption=none&headerType=none&type=tcp#@Hddify
-vless://48b81d34-df01-4c94-9e34-0ccb4c40c547@185.36.145.227:70?security=none&encryption=none&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#🚀کانال تلگرام : injastvpn@
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#✨ @Geek_Spot | 🚀 | 🌐 43.156.217.68 | 🇸🇬
 vless://4801c19d-37aa-4704-921e-9ee9bab80f1d@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&host=p30download.ir&type=xhttp#@EXPRESSVPN_420  کانال ما
 vless://4801c19d-37aa-4704-921e-9ee9bab80f1d@speedtest.net:80/?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#سرور رایگان @HAJIMAMADVPN-3
@@ -366,7 +362,6 @@ vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&p
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#All_@IRAN_V2RAY1
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@Dropcube
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
-vless://3ce4817f-9bab-47f1-9df5-1b037b35cbed@94.177.147.79:38745?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷@FreakConfig
 vless://3cdd66cf-a0ff-4db6-a097-1a46f42010dd@209.38.42.122:2027?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://3cdd66cf-a0ff-4db6-a097-1a46f42010dd@209.38.42.122:2027?security=&encryption=none&headerType=none&type=tcp#@Dropcube
 vless://3cd0bf9c-1d1d-477f-89a1-eb60276ac5f3@www.speedtest.net:8080?path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none&encryption=none&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&type=ws#Telegram : @Alfa_v2ray_ng 🔥
@@ -502,3 +497,8 @@ vless://37201919-2dbd-4020-89f0-94b454af7b3d@91.99.81.146:8443?security=reality&
 vless://37201919-2dbd-4020-89f0-94b454af7b3d@91.99.117.197:8443?type=grpc&serviceName=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android&authority=&security=reality&pbk=X1ZcgEvOoRWwMQHDd4VOVUsVc0clHdcRKwVgjV9VvWs&fp=chrome&sni=www.cdn77.com&sid=&spx=/#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها
 vless://371c3285-f15a-4a64-b8e1-1ad8a5d8f01d@EVAY_VPN.fast.hosting-ip.com:80?type=xhttp&mode=auto&host=crazyofferzzshopp.com&path=/FASTSHOVPN?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇺🇸 @Evay_vpn
 vless://3718b82b-a334-433f-a826-c36d06234353@91.107.176.168:2086/?type=tcp&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=bmw.com&headerType=http&security=none#@ZedBaz_vpn2
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
