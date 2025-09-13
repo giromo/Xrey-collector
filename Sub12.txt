@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://3cd0bf9c-1d1d-477f-89a1-eb60276ac5f3@www.speedtest.net:8080?path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none&encryption=none&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&type=ws#Telegram : @Alfa_v2ray_ng 🔥
-vless://3cc281c5-12ba-4b7f-b3cb-dffaead2e41b@free.mizbandana.org:443?security=reality&encryption=none&pbk=ISrfUELe0qT8oErISq19eLFM4VqFgkeiz5RWAA0t5FM&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=7a8117b83a6a3b45#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🇩🇪@FreakConfig
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#⚡️@Takv2ray_org | All 🇩🇪²
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#[🇨🇦]ae_proxy
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
@@ -502,3 +499,6 @@ vless://278ac6d3-49b0-4a52-ae3c-7f19970942fa@86.104.74.238:443?path=/wflhdtws&se
 vless://276a6072-3b0c-4ddb-bb33-ce14fabc1534@91.99.236.124:51479?security=reality&encryption=none&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg&fp=chrome&spx=/&type=grpc&serviceName=@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&sni=www.cdn77.com#Telegram : @VPN_ROOM 🇩🇪
 vless://275791c2-2fcd-477e-aa34-5fd4aabc0e16@zula.ir:443?security=tls&encryption=none&type=ws&host=foOd.piNoBin.iR.&path=/YwIG9FgZvsHrfa2f?ed=2560&sni=FOod.pinobIN.Ir.&fp=chrome&alpn=h2,http/1.1#Awlix_ir
 vless://27345940-42d5-4508-a803-7c24da1c3080@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
+vless://27345940-42d5-4508-a803-7c24da1c3080@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
+vless://26f80b9a-3133-4b6f-d685-425800026430@host1.nikasons.ir:443?security=none&encryption=none&headerType=none&type=tcp#Hich Net・Tunnel 🇩🇪・Free
+vless://26f80b9a-3133-4b6f-d685-425800026430@host1.nikasons.ir:443?security=none&encryption=none&headerType=none&type=tcp#@Mrconfig_Channel 🩵

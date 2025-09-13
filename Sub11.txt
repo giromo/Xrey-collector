@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&type=ws&sni=d15.alanhiAhO.cOm#[🇨🇦]
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&type=ws&sni=d15.alanhiAhO.cOm#Academi_vpn2
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d34.aLaNHiAHO.com&type=ws&sni=d34.aLaNHiAHO.com#[🇨🇦]
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d23.AlanhIahO.cOm&type=ws&sni=d23.AlanhIahO.cOm#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d23.AlanhIahO.cOm&type=ws&sni=d23.AlanhIahO.cOm#🇩🇪@FreakConfig
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d23.AlanhIahO.cOm&type=ws&sni=d23.AlanhIahO.cOm#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
@@ -502,3 +499,6 @@ vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&p
 vless://3ce4817f-9bab-47f1-9df5-1b037b35cbed@94.177.147.79:38745?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷@FreakConfig
 vless://3cdd66cf-a0ff-4db6-a097-1a46f42010dd@209.38.42.122:2027?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://3cdd66cf-a0ff-4db6-a097-1a46f42010dd@209.38.42.122:2027?security=&encryption=none&headerType=none&type=tcp#@Dropcube
+vless://3cd0bf9c-1d1d-477f-89a1-eb60276ac5f3@www.speedtest.net:8080?path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none&encryption=none&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&type=ws#Telegram : @Alfa_v2ray_ng 🔥
+vless://3cc281c5-12ba-4b7f-b3cb-dffaead2e41b@free.mizbandana.org:443?security=reality&encryption=none&pbk=ISrfUELe0qT8oErISq19eLFM4VqFgkeiz5RWAA0t5FM&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=7a8117b83a6a3b45#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🇩🇪@FreakConfig
