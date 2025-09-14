@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss72246.tas-bazi.com:443?mode=stream-one&path=/sef&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss72246.tas-bazi.com:443?mode=stream-one&path=/sef&security=&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss71534.tas-bazi.com:443?mode=stream-one&path=/sef&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://a9ddba8c-f906-42c1-a53a-105518de6f75@172.66.40.99:80?type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.js.elmahstyle.xyz.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇳🇱@Shh_Proxy | All¹
@@ -502,3 +501,4 @@ vless://9c6edb67-c264-4835-8d87-9fd58d1ff260@www.speedtest.net:80?path=/Join----
 vless://9c411878-9ea9-438d-bb65-8d3c122f8028@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46155-2
 vless://9c3da3df-b420-4e3e-8dcd-55243fa1c7a5@172.66.40.99:8880?type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.elmahstyle.xyz.&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed=2048&security=none#czhswxea
 vless://9bd8537b-32cf-4a98-bc1a-d1d5a64e1164@digitalocean.com:8880?path=@Rayan_Config&security=none&encryption=none&host=rAyAn-cOnFiG-TeLeGrAm-pRo-3.rAyAn-3.cLoUdNs.pRo&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://9bd063f6-6870-4e94-a76a-d71ec9de50d0@94.156.232.187:8880?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
