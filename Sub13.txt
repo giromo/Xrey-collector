@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#@ata_connect
-vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#@IRAN_V2RAY1
 vless://1ff9dc4a-4853-4790-a81c-13e195c957e8@51.195.119.75:8443?path=/vless/&security=tls&encryption=none&type=ws&sni=ov-germany6.09vpn.com#🇩🇪@FreakConfig
 vless://1fea2af8-1d92-46d3-8fe6-0bd329288b61@89.110.104.14:4434?security=reality&encryption=none&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=teamdocs.su&sid=1ae2fd1e1ace9935#Telegram : @Alfa_v2ray_ng 🔥
 vless://1fd7512a-01e5-442c-88d9-ced864e0253e@172.66.40.99:80?type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.js.carwash-vip.xyz.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇳🇱@Shh_Proxy | All¹
@@ -502,3 +500,5 @@ vless://06be7b9f-5e99-47d2-82e8-667cedecc829@190.93.244.170:2082?path=/@v2ngnet-
 vless://06aa7bd7-88d1-445b-bd7b-17d3472a45a6@deu316.unlocknet.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#[🇩🇪]
 vless://06a69ade-0ebf-44dc-8f06-69dda39be844@www.speedtest.net:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🇩🇪 Telegram @SRCVPN
 vless://06a69ade-0ebf-44dc-8f06-69dda39be844@www.speedtest.net:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
+vless://06a69ade-0ebf-44dc-8f06-69dda39be844@numberland.ir:2052?type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
+vless://06a69ade-0ebf-44dc-8f06-69dda39be844@172.67.72.39:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🇩🇪 Telegram @SRCVPN ²

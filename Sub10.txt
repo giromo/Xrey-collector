@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://661f6f25-1b51-4782-b2d2-994c6b97c158@91.98.64.81:443?mode=auto&path=/xhttp&security=&encryption=none&type=xhttp#Channel id: @ShadowProxy66 🇩🇪
-vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🔐 @AblNet7
 vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=none&encryption=none&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=none&encryption=none&headerType=http&type=tcp#سرویس نامحدود ماهانه 49 تومان👈👈دریافت از طریق HiByeVPNN@👉👉
 vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=none&encryption=none&headerType=http&type=tcp#[🇫🇮]
@@ -502,3 +500,5 @@ vless://4e21e86a-46f1-4272-bdb3-bac8bc6839ab@Loadbalance.systemgamingirani.ir:44
 vless://4e11759c-99e8-4233-9c88-deb121f286f5@Www.speedtest.net:2095?path=/wss9500?ed=2560@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---&security=none&encryption=none&host=Mmd.mehrdadspd1980.ir&type=httpupgrade#@IRAN_V2RAY1{All operator}
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=/tas&security=tls&alpn=h2&encryption=none&host=auto.tas-bazi.com&fp=chrome&type=xhttp&sni=auto.tas-bazi.com#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥:@EXPRESSVPN_420🏂²
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=/tas&security=tls&alpn=h2&encryption=none&host=auto.tas-bazi.com&fp=chrome&type=xhttp&sni=auto.tas-bazi.com#@vmesskhodam)تلگراممون
+vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=/tas&security=tls&alpn=h2&encryption=none&host=ali.tas-bazi.com&fp=chrome&type=xhttp&sni=ali.tas-bazi.com#@CaV2ray ⚡️
+vless://4e01969c-88a2-43c7-8906-e9bf023fa69d@91.107.154.247:1913?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@

@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=/tas&security=tls&alpn=h2&encryption=none&host=ali.tas-bazi.com&fp=chrome&type=xhttp&sni=ali.tas-bazi.com#@CaV2ray ⚡️
-vless://4e01969c-88a2-43c7-8906-e9bf023fa69d@91.107.154.247:1913?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://4e01969c-88a2-43c7-8906-e9bf023fa69d@91.107.154.247:1913?security=&encryption=none&headerType=none&type=tcp#Channel-@vmesskhodam
 vless://4d93f16b-d2d2-4267-819e-5d5c297efac5@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.byte-server.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
 vless://4d93f16b-d2d2-4267-819e-5d5c297efac5@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.byte-server.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
@@ -502,3 +500,5 @@ vless://3b82c3ef-d428-4a62-ae97-f53c305f883d@188.245.39.111:48889?security=none&
 vless://3b82c3ef-d428-4a62-ae97-f53c305f883d@188.245.39.111:248?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Selinc
 vless://3b82c3ef-d428-4a62-ae97-f53c305f883d@188.245.39.111:248?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://3b638479-b5b0-46b8-88a0-afbbf306e1f9@www.speedtest.net:80?path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws&sni=revest.maketunnelim.Lat.#Telegram : @Alfa_v2ray_ng 🔥
+vless://3b638479-b5b0-46b8-88a0-afbbf306e1f9@172.66.40.99:80?path=/?ed=2048JOIN---PLANB_PROXY&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
+vless://3b638479-b5b0-46b8-88a0-afbbf306e1f9@172.66.40.99:80?path=/?ed=2048@v2ray_configs_pools&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws#Telegram : @Alfa_v2ray_ng 🔥

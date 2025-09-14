@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.67.169.132:2087?encryption=none&security=tls&sni=smart.v2plusify.org&fp=chrome&type=ws&host=smart.v2plusify.org&path=/#🚀کانال تلگرام : @InjastVpn
-vless://9e3915d4-e76b-40bf-a64c-0a7060f71cb5@85.133.132.30:55903?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 vless://9e3915d4-e76b-40bf-a64c-0a7060f71cb5@85.133.132.30:55903?security=none&encryption=none&headerType=none&type=tcp#@Dropcube⚡❤️‍🔥
 vless://9e30c25c-2142-4080-8604-738db4650459@46.62.128.241:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#Telegram : @Alfa_v2ray_ng 🔥
 vless://9e30c25c-2142-4080-8604-738db4650459@46.62.128.241:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#@IRAN_V2RAY1
@@ -502,3 +500,5 @@ vless://7c1dea37-4488-4b70-ab4f-8330bbc53e2d@Evay_vpn.heloisfood.ir:1530?type=xh
 vless://7c18eeab-f38f-48a2-ae25-50c26cdfb0d9@104.21.16.48:80?path=/&security=none&encryption=none&host=anTiFiLTEr.dOXAs38496.wOrkErs.dEV&type=ws#@Mrconfig_Channel 🩵
 vless://7c1438c0-f28b-4fdf-821e-558931edac3e@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷1 tunnel: @EVAY_VPN  100Gb❤️- پایان حجم ❌
 vless://7c1438c0-f28b-4fdf-821e-558931edac3e@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷1 tunnel: @EVAY_VPN
+vless://7bf620ba-ebea-4e28-9988-204353f9fac0@139.59.142.90:50886?type=xhttp&path=/@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel@MrConfig_Channel&host=&mode=auto&security=none#کانال ما @MrConfig_Channel🎴
+vless://7bc12c11-d666-4d73-a086-f77a425d2ef0@www.speedtest.net:2095?type=httpupgrade&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=ww.irAnsheep.wEb.tr.&security=none#BinexTiFy🔥-ozcutym9k
