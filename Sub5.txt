@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
+vless://d846541c-519b-48c0-9c8a-d52b2e8e8330@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=mahan.mmadvip8563.ir&security=none#@ZedBaz_vpn
 vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2051?type=tcp&host=snapp.taxi&headerType=http#✨ @Geek_Spot | 🚀 | 🌐 212.33.201.222 | IR
 vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.187:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://d80f1a54-7a16-42de-c4b4-7ed04a485548@99.199.73.53:6464?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
@@ -501,4 +502,3 @@ vless://ba0bf70e-72c6-43af-bd2b-4579dfd09010@172.66.40.99:443?path=/@V2RAYFAST_7
 vless://b9f4a044-78ca-4159-eb86-a1c198302e86@www.speedtest.net:8880?path=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android&security=&encryption=none&host=www.ubuntu.com.speedtest24.ir&type=httpupgrade#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها¹
 vless://b9793e0b-b030-4ac6-a503-8f2081d1cada@m47a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#[🇩🇪]
 vless://b9793e0b-b030-4ac6-a503-8f2081d1cada@m47a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
-vless://b9793e0b-b030-4ac6-a503-8f2081d1cada@m47a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Allـ@Iran_v2ray1

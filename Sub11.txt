@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://2ef737f5-d66a-4788-98b4-6dff2850954d@randomsecretcloud.ferdowsi-rgb.ir:36802?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
-vless://2ef737f5-d66a-4788-98b4-6dff2850954d@randomsecretcloud.ferdowsi-rgb.ir:36802?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://2ef737f5-d66a-4788-98b4-6dff2850954d@randomsecretcloud.ferdowsi-rgb.ir:36802?security=none&encryption=none&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://2ef737f5-d66a-4788-98b4-6dff2850954d@randomsecretcloud.ferdowsi-rgb.ir:36802?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 vless://2ef737f5-d66a-4788-98b4-6dff2850954d@randomsecretcloud.ferdowsi-rgb.ir:36802?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
@@ -502,3 +500,5 @@ vless://10aca91a-6e44-46cb-a890-ea246400c0a7@185.236.37.23:443?security=tls&encr
 vless://10a4f333-7537-443a-8053-230068b7cdcb@104.26.15.69:8880?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
 vless://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:443?type=httpupgrade&host=chervhill.hajalii.com&path=/uEUomzcEAZ5S0uJX2dp9up&security=tls&fp=chrome&sni=chervhill.hajalii.com&alpn=http/1.1#@Mr_Config_Group✌️
 vless://10811461-dd47-46a7-8f6d-c34bbd8f9734@m77a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
+vless://10811461-dd47-46a7-8f6d-c34bbd8f9734@m77a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇫🇮@FreakConfig
+vless://10811461-dd47-46a7-8f6d-c34bbd8f9734@m77a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/&headerType=http&type=tcp#All-@IRAN_V2RAY1
