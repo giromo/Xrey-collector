@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇵@FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#All_@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
@@ -479,7 +477,6 @@ vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.217.44:443?mode=stream-one&pa
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.213.128:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.213.128:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.211.213:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
-vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.211.213:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#[🇩🇪]
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.211.213:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.211.213:443?mode=stream-one&path=/rf&security=&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.146.68:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
@@ -495,10 +492,13 @@ vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.35.142:443?mode=stream-one&pa
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.35.142:443?mode=stream-one&path=/rf&security=&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.35.142:443?mode=stream-one&path=/rf&security=&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.35.110:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
-vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.35.110:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#[🇩🇪]
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.35.110:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#Telegram : @Alfa_v2ray_ng 🔥
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.35.110:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.35.110:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#@dropcube
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.35.110:443?mode=stream-one&path=/rf&security=&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://c981b24a-e0a9-429a-ae24-c0fce292acee@195.201.32.169:10138?type=grpc&serviceName=/@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&authority=&security=none#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://c95e1271-871f-44ad-bbe9-e05d028d3d40@speedtestcustom.com:80?type=xhttp&mode=auto&host=lake5.global.ssl.fastly.net&path=/rddeserfgg?ed=2560@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇺🇸 @Evay_vpn
+vless://c95e1271-871f-44ad-bbe9-e05d028d3d40@EVAY_VPN.fast.hosting-ip.com:80?type=xhttp&mode=auto&host=lake5.global.ssl.fastly.net&path=/rddeserfgg?ed=2560@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇺🇸 @Evay_vpn
+vless://c94931cb-077d-42fe-9fbb-21a6c1597658@www.speedtest.net:8880?path=/Nama?ed=2048&security=none&encryption=none&host=France-WeDBaZz.homelandes.ir.&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
+vless://c93ad4ba-05d4-4afd-af65-8055bfd84544@sss36322.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
+vless://c93ad4ba-05d4-4afd-af65-8055bfd84544@sss36322.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@EXPRESSVPN_420:🇩🇪
