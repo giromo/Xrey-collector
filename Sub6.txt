@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://c8d98220-eee5-47ab-b311-b5a52c24d808@194.156.65.205:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#@vpnserverrr- 🇳🇱-F2GXkw (SVM)
-vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=chrome&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#@CaV2ray ⚡️
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@lovefishingfishes.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@lovefishingfishes.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=chrome&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#@CaV2ray ⚡️
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm2.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=chrome&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#@CaV2ray ⚡️
@@ -502,3 +499,6 @@ vless://a8ecbf0f-6a34-4e9b-9989-8cca84825122@80.74.29.212:8443?security=reality&
 vless://a8e41efd-0fb8-459a-9fab-95e038a003f4@s85cndx2225.mmadvip8563.ir:3799?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://a8d1d8d8-02d0-46e4-ae31-606c6e8b4d96@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=inFo.laLezaRanegomaNandish.sNap.ir.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46159-1
 vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#Telegram : @Alfa_v2ray_ng 🔥
+vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@Selinc
+vless://a83b75d7-6b87-4201-a12a-8105fad6a8da@www.speedtest.net:2082?path=ð&security=none&encryption=none&host=rAyAn-cOnFiG-TeLeGrAm-cLuB-6.RaYaN-6.ClOuDnS.ClUb&fp=chrome&type=ws#Telegram : @Alfa_v2ray_ng 🔥
+vless://a82def0b-92c5-450b-9fca-7f1b7f932e8e@63.141.128.16:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#@bored_vpn

@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://006741b4-8a77-41f0-80d4-d35e6c2f5825@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=&encryption=none&host=c.jOin.zEdMoDeOn.oNl.&type=ws#Telegram : @Dropcube
-vless://00651706-0d2d-448b-80f2-7678f3e5187c@93.185.158.14:443?path=/bing&security=tls&encryption=none&host=uk.rtot.me&fp=chrome&type=ws&sni=uk.rtot.me#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://005b0edd-ff5e-423e-9cc2-c2bf89a97b1c@www.speedtest.net:2095?type=httpupgrade&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=ww.irAnsheep.wEb.tr.&security=none#BinexTiFy🔥-x2h464upi
 vless://003724c7-e0db-4975-92f4-16eed29105f3@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#Telegram : @Alfa_v2ray_ng 🔥
 vless://002eedd4-0732-4ced-8ebd-ebe1acc45729@wwarden.mhrnet.com:39568?security=reality&encryption=none&pbk=eH2E-oZ8ViZrFsElgF5o8LZPi08XCEQe0YwG-gfwbCc&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=0ff1b59e1b#🇩🇪@FreakConfig
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@sss31842.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
@@ -194,6 +191,8 @@ ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#🇯🇵 Tokyo, 13, Japan
 ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#All-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaU92TGtoTVZjMUc=@77.83.245.191:443#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQzJ0TWhtQkx6ZzlyWUNhSzlnaFpu@194.87.45.189:443#✨ @Geek_Spot | 🔒 | 🌐 194.87.45.189 | 🇪🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyNHVHdGZ0WlJOU0hsZDF0YmRvaUQ0@.com:8535/?outline=1  انشالله اینم قطع نکنند !
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyNHVHdGZ0WlJOU0hsZDF0YmRvaUQ0@.com:8535/?outline=1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.128:2222#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@62.133.63.226:2222#@Mrconfig_Channel 🩵
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@194.87.71.223:2222#@Mrconfig_Channel 🩵
@@ -502,3 +501,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfZ2I=@gb-1.s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfYWU=@ae-1.stunnel.cc:8444#[Shadowsocks] astrovpn_official-🇦🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfY2E=@ca-1.stunnel.cc:8444#AstroVPN_Official 🇨🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtdXM=@us-4.stunnel.cc:8444#[Shadowsocks] astrovpn_official-🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtZnI=@fr-2.stunnel.cc:8444#AstroVPN_Official-🇫🇷

@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=/holhclws&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
-vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=/holhclws&security=tls&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
-vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=/holhclws&security=tls&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇫🇷 | @External_Net
-vless://35a0361a-c0d4-42e0-9022-b3c9f647837d@167.235.67.79:11260/?encryption=none&host=fast.com&type=tcp&headerType=http#@Geek_Spot
 vless://35804421-0d60-4dff-acda-6dded7323b1d@91.107.251.143:6745?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://3575bdad-99d2-4742-a3ed-c7fc7bdaa60d@172.67.223.232:443?security=tls&encryption=none&type=ws&host=MARgBarsefASEd-MOlA-CHapI-MOJaheD.PAGes.deV&path=/Telegram@V2ray_Alpha/?ed=2048&sni=maRgBarSEFASEd-molA-cHApI-moJaHED.PaGeS.Dev&fp=chrome&alpn=h2,http/1.1#Awlix_ir
 vless://353ae6e9-b8b8-41eb-bf45-cd2bcd9adb61@rose1.camellia2.shop:1991/?encryption=none&host=bama.ir&type=tcp&headerType=http#@Geek_Spot
@@ -502,3 +498,7 @@ vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality&e
 vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Allـ@Iran_v2ray1 🇩🇪
 vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Telegram : @Alfa_v2ray_ng 🔥
 vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#All-@IRAN_V2RAY1
+vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#🇳🇱@FreakConfig
+vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy 🆔
+vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
+vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Telegram : @Alfa_v2ray_ng 🔥
