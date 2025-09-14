@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928668169310838.rasht-drc-tusabp.info:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @Hddify
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928668169310838.rasht-drc-tusabp.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638927678654211750.rasht-drc-tusabn.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇵@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638925841028493287.berlin-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
@@ -326,6 +325,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.25.113.15:443?security=tls&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.38.13:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.43.169:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.197.1:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?d=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
+vless://d317af4b-d13f-49f3-9fad-b62af1eb4054@tmz.ip4core.ir:80?mode=auto&path=/&security=none&encryption=none&host=uk.acanto.ir&type=xhttp#🇬🇧  ⚜️@EXPRESSVPN_420
 vless://d317af4b-d13f-49f3-9fad-b62af1eb4054@tmz.ip4core.ir:80?mode=auto&path=/&security=none&encryption=none&host=uk.acanto.ir&type=xhttp#[🇺🇸]
 vless://d2ec79c6-0319-4792-f2f4-d786df1b2d45@asia7.novahomedesigntips.com:7850?path=/&security=none&encryption=none&type=ws#@Mrconfig_Channel 🩵
 vless://d2e3f4a5-b6c7-2345-8901-123456789abc@45.35.126.48:8443?type=tcp&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=VWX1234567890abcdef1234567890abcdef#@CaV2ray ⚡️
