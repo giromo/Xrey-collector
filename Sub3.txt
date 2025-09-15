@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vmess://eyJhZGQiOiIxNzguMjM5LjE0NC4xODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDc4MzhkZGItNTRiYS00M2RjLWI5ZmEtMDJjNDMwY2VmNGE0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDUwIiwicHMiOiJAR2Vla19TcG90Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxNzYuOTcuMjEwLjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiQEdlZWtfU3BvdCIsIm5ldCI6InRjcCIsInBhdGgiOiIvQEdlZWtfU3BvdCIsInBvcnQiOiI0NTE0MyIsInBzIjoi8J+HuvCfh6YgVWtyYWluZSAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTQ1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJRNC4xOWthbGEuY08iLCJpZCI6ImZvci1NYWhzYU5HLXZwbi0wMDE0MSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkFsbC0tQElSQU5fVjJSQVkxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNzIuNjcuMTcwLjEzIiwiYWlkIjoiMCIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBhd2xpeF9pciIsInNjeSI6ImF1dG8iLCJzbmkiOiJnbHdlaWRmLnNicyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -502,3 +501,4 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZ
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.24.171.107:443?path=/eJ5JZ3A1HxfU0bPO?ed=2560/?ALPHANET_BIA_CHANEL@ALPHANET&security=tls&alpn=http/1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=chrome&type=ws&sni=vNgSUppLy.IP-dDnS.COm#@bad_raqs
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.19.76.13:8880?path=/G8ZDmBYwOAz3ahmR?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?host=vngsupply.ip-ddns.com&type=ws&security=&path=/J5aLQOY1R9ONWYCM?ed=2560&encryption=none#Channel :@vmesskhodam
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?host=vngsupply.ip-ddns.com&type=ws&security=&path=/6TvG8D6HimXKgdp2?ed=2560&encryption=none#Channel : @vmesskhodam
