@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://d8506e85-4631-4513-9651-5914b8b33e5d@www.speedtest.net:2087?type=httpupgrade&path=/@saeedtelcom?ed=2048&host=unitedkingdom.iranfastspeed.net&security=tls&fp=chrome&alpn=h2,http/1.1&sni=unitedkingdom.iranfastspeed.net#@CaV2ray ⚡️
-vless://d84c63de-f41b-44cc-c22e-20d01f38aec7@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-t0w5l0gj
-vless://d846541c-519b-48c0-9c8a-d52b2e8e8330@www.speedtest.net:2086?path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&security=none&encryption=none&host=mahan.mmadvip8563.ir&type=ws#🇩🇪@FreakConfig
 vless://d846541c-519b-48c0-9c8a-d52b2e8e8330@www.speedtest.net:2086?path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&security=&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=mahan.mmadvip8563.ir&type=ws#@ghalagyann
 vless://d846541c-519b-48c0-9c8a-d52b2e8e8330@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=mahan.mmadvip8563.ir&security=none#@ZedBaz_vpn
 vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2051?type=tcp&host=snapp.taxi&headerType=http#✨ @Geek_Spot | 🚀 | 🌐 212.33.201.222 | IR
@@ -502,3 +499,6 @@ vless://b9f4a044-78ca-4159-eb86-a1c198302e86@www.speedtest.net:8880?path=/Telegr
 vless://b9793e0b-b030-4ac6-a503-8f2081d1cada@m47a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#[🇩🇪]
 vless://b9793e0b-b030-4ac6-a503-8f2081d1cada@m47a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://b9793e0b-b030-4ac6-a503-8f2081d1cada@m47a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Allـ@Iran_v2ray1
+vless://b9793e0b-b030-4ac6-a503-8f2081d1cada@m47a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
+vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@www.speedtest.net:2096?path=/tjkqcpws&security=tls&encryption=none&host=638879176706477448.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706477448.amsterdam-prx-dnraaal.info#کانال+تلگرام+AYMH19@
+vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@www.speedtest.net:2096?path=/tjkqcpws&security=tls&encryption=none&host=638879176706477448.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706477448.amsterdam-prx-dnraaal.info#کانال+

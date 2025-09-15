@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=/?@MARAMBASHI_MARAMBASHI&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=uk-09.allhubb.info&fp=chrome&type=xhttp&sni=uk-09.allhubb.info#@Hddify
-vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=/?@MARAMBASHI_MARAMBASHI&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=uk-09.allhubb.info&fp=chrome&type=xhttp&sni=uk-09.allhubb.info#@AblNet7 🇮🇷 نت ملی
-vless://653d4b04-43da-46b7-f52d-4abdcc768627@91.98.21.55:12249?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=r7fSsUJtoqdtpIidkVHEjfdzaEdmyHmQdQ6ePxAC1Vc&fp=chrome&sni=www.cdn77.com&sid=&spx=/#Telegram : @VPN_ROOM🇩🇪
 vless://65365035-e08b-46e1-982c-121e1a855c86@91.99.115.173:443?mode=gun&security=reality&encryption=none&pbk=mEzwGx3LUXPR-sw8RFmlGM_ctzTwPlgq-mxku4wtBnc&fp=chrome&type=grpc&serviceName=Ki5km8BGk5eqaB0Q1qI&sni=snapp.ir&sid=c1#MCI--@IRAN_V2RAY1
 vless://6529058d-710b-4c77-8d21-9cbfab6511a6@ynl.rayengame.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🇳🇱@FreakConfig
 vless://6529058d-710b-4c77-8d21-9cbfab6511a6@yde3.rayengame.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🇩🇪@FreakConfig
@@ -502,3 +499,6 @@ vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.5:443?path=/?ed=443&sec
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.5:443?path=/?ed=443&security=tls&encryption=none&host=1001cns.com.wnticacenidk1.abrmahanair.com&fp=chrome&type=ws&sni=1001cns.com#@CaV2ray ⚡️
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.200:443?path=/?ed=443&security=tls&encryption=none&host=mehrnews.com.oadeflantrogmtr3.abrirmahan.com&fp=chrome&type=ws&sni=mehrnews.com#@CaV2ray ⚡️
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.120:443?path=/?ed=443&security=tls&encryption=none&host=seedleech.ir.oadeflantrogmnl2.airasiadl.com&fp=chrome&type=ws&sni=seedleech.ir#@CaV2ray ⚡️
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.120:443?path=/?ed=443&security=tls&encryption=none&host=core.pod.ir.oadeflantrogmuk4.iranaircdn.com&fp=chrome&type=ws&sni=core.pod.ir#@CaV2ray ⚡️
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.120:443?path=/?ed=443&security=tls&encryption=none&host=bluemoive.ir.oadeflantrogmtr7.iranaircdn.com&fp=chrome&type=ws&sni=bluemoive.ir#@CaV2ray ⚡️
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.120:443?path=/?ed=443&security=tls&encryption=none&host=baromovie.ir.oadeflantrogmnl9.airasiadl.com&fp=chrome&type=ws&sni=baromovie.ir#@CaV2ray ⚡️
