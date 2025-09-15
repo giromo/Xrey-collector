@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-41
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-39
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-37
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-35
@@ -502,3 +501,4 @@ vless://7e60ecd7-1689-498f-98c9-b8896b84fec4@173.245.59.132:8080?path=/@MaSTeRSe
 vless://7e40a567-f9c1-44cc-af81-85ac16a9bdf3@sv1.tsteamu1.top:40001?security=none&encryption=none&headerType=http&type=tcp#[🏁]
 vless://7df5a558-c45c-4002-ac52-c0b4e91b6968@Www.speedtest.net:8880?path=/wss9500?ed=2560@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP-G_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP&security=none&encryption=none&host=Mmd.mehrdadspd1980.ir.&type=httpupgrade#🇫🇮 Telegram @ata_connect
 vless://7df5a558-c45c-4002-ac52-c0b4e91b6968@Www.speedtest.net:8880/?type=httpupgrade&path=/wss9500?ed=2560@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP-G_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP&host=Mmd.mehrdadspd1980.ir.&security=none#TEL:@V2RANG_IP
+vless://7db68497-fbfd-40a3-ac95-96d2ee28b709@cloudgetservice.mcloudservice.site:443?path=/linkws&security=tls&encryption=none&host=maxnetvipap-de145.maxnetservices.online&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
