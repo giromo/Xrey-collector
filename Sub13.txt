@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvS2d3cW1uWXdEc1g=@77.83.245.192:443#🇹🇷@FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvS2d3cW1uWXdEc1g=@77.83.245.192:443#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@beta.mattenadene.org:54075#All-@IRAN_V2RAY1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@beta.mattenadene.org:54075#@IRAN_V2RAY1--All
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@94.131.21.174:54075#@V2RAYNG_1378
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucjI0S0FlQ0lkQnRMWnFzVEt4Wlg2@94.159.96.245:11902#🇩🇪 Frankfurt am Main, HE, Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWVJoVENaZFFMRXhLNmV3VkhnSFMybWx2NEZDeXNLeWV5VFRmaFJkRWdkZWVSTjA=@5.188.36.93:31348#🇹🇷@FreakConfig
@@ -502,3 +498,7 @@ trojan://253bc477d4e43c209f2d427272968280@36.156.102.77:9160?allowInsecure=1&sni
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.77:1501?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
 ss://YWVzLTI1Ni1nY206YW1hem9uZ3JlYXR2cG4@57.181.174.7:16888#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC5%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.77:1924?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40stairnode
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.77:327?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
+ss://YWVzLTI1Ni1nY206OGE2Y2ExNGMwOTM2@137.220.142.150:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bhost%3Djpxw9v1.dashengjs.net%3Bpath%3D%2Fwrdfiatyd%3B#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766/?plugin=simple-obfs%3Bobfs%3Dhttp%3Bobfs-host%3D202509121565513-hgGUWL4a7n.download.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40stairnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMmQ1MjE1Zi0yMmY0LTQ1NmMtYTcyNC03ODk0MzFmMmI5MzA@118.170.235.179:10004#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE2%7C%40stairnode
