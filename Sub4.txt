@@ -209,10 +209,8 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?mode=gun&secur
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#[🇺🇸]
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?mode=gun&security=none&encryption=none&authority=?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&fp=chrome&type=grpc#@HiByeVPNN👈⚡❤️‍🔥
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?mode=gun&security=none&encryption=none&authority=/&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.129:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇲@FreakConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.129:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.129:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@Selinc
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇲@FreakConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=none&encryption=none&type=grpc#@EXPRESSVPN_420 |4
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=none&encryption=none&authority=/?JOIN---PLANB_PROXY&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
@@ -502,3 +500,5 @@ vless://d84c63de-f41b-44cc-c22e-20d01f38aec7@151.101.3.8:80?type=xhttp&path=/@Xp
 vless://d846541c-519b-48c0-9c8a-d52b2e8e8330@www.speedtest.net:2086?path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&security=none&encryption=none&host=mahan.mmadvip8563.ir&type=ws#🇩🇪@FreakConfig
 vless://d846541c-519b-48c0-9c8a-d52b2e8e8330@www.speedtest.net:2086?path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&security=&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=mahan.mmadvip8563.ir&type=ws#@ghalagyann
 vless://d846541c-519b-48c0-9c8a-d52b2e8e8330@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=mahan.mmadvip8563.ir&security=none#@ZedBaz_vpn
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2051?type=tcp&host=snapp.taxi&headerType=http#✨ @Geek_Spot | 🚀 | 🌐 212.33.201.222 | IR
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.187:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#@CaV2ray ⚡️
