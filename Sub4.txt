@@ -2,14 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#@IRAN_V2RAY1
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#Channel id: @ShadowProxy66 🇨🇦
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=0FpNnDhS71.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=0FpNnDhS71.lIrA0xC8.iNfO#All-@IRAN_V2RAY1
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=0FpNnDhS71.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=0FpNnDhS71.lIrA0xC8.iNfO#@Selinc
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#@IRAN_V2RAY1-All
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=YjF03nNq0B.sOlEnTrAa.InFo#Channel id: @ShadowProxy66 🇨🇦
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=PmQ1cCsP9x.GhEiChI.oRg&type=ws&sni=PmQ1cCsP9x.GhEiChI.oRg#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?path=/?Join---@Selinc?ed&security=tls&encryption=none&host=PmQ1cCsP9x.GhEiChI.oRg&type=ws&sni=PmQ1cCsP9x.GhEiChI.oRg#@Selinc
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?path=/&security=tls&encryption=none&host=Q9cI2lEeUz.GiTi4.OrG&type=ws&sni=Q9cI2lEeUz.GiTi4.OrG#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:443?path=/?Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=JdYq2881Un.GhEiChI.oRg&fp=chrome&type=ws&sni=JdYq2881Un.GhEiChI.oRg#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&fp=chrome&type=ws&sni=E4aRpUi7Xe.GiTi4.OrG#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -502,3 +494,11 @@ vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=none
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 vless://d8b86bc9-822a-4030-d898-c923a30fa39c@www.speedtest.net:8080?type=ws&host=bia-to-unlimiteddev.unlimiteddev-service.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link2
 vless://d8b86bc9-822a-4030-d898-c923a30fa39c@numberland.ir:8080?type=ws&host=bia-to-unlimiteddev.unlimiteddev-service.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link1
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?path=/&security=tls&encryption=none&type=ws&sni=007.xingfu.qzz.io#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#MCI-@IRAN_V2RAY1
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#@vmesskhodam
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#@Dropcube
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.4.90:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#MCI_@IRAN_V2RAY1
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.4.90:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#@Selinc
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#MCI-_@IRAN_V2RAY1

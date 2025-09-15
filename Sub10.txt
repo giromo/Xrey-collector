@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.5:443?path=/?ed=443&security=tls&encryption=none&host=1001cns.com.wnticacenidk1.abrmahanair.com&fp=chrome&type=ws&sni=1001cns.com#@CaV2ray ⚡️
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.200:443?path=/?ed=443&security=tls&encryption=none&host=mehrnews.com.oadeflantrogmtr3.abrirmahan.com&fp=chrome&type=ws&sni=mehrnews.com#@CaV2ray ⚡️
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.120:443?path=/?ed=443&security=tls&encryption=none&host=seedleech.ir.oadeflantrogmnl2.airasiadl.com&fp=chrome&type=ws&sni=seedleech.ir#@CaV2ray ⚡️
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.120:443?path=/?ed=443&security=tls&encryption=none&host=core.pod.ir.oadeflantrogmuk4.iranaircdn.com&fp=chrome&type=ws&sni=core.pod.ir#@CaV2ray ⚡️
@@ -502,3 +501,4 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.14:51615?security=none&en
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.205.175:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
