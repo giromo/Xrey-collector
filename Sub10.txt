@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
+vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&encryption=none&headerType=none&type=tcp#Irancell--@IRAN_V2RAY1
 vless://44fc47c2-87cb-4819-94ef-19cc2a934f96@azadnett1.set7.site:35420?type=tcp&security=none#Hedyeh.azadnet  📣 برای دوستانتون هم ارسال کنید ...  با ری اکشن هاتون به ما انرژی بدید و حمایت کنید‼️ 🚀Support:
 vless://44fc47c2-87cb-4819-94ef-19cc2a934f96@azadnett1.set7.site:35420?type=tcp&security=none#Hedyeh.azadnet
 vless://44d6d9ef-c842-4a52-a180-530200ac258a@www.speedtest.net:2052?type=ws&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&host=MdVpnSec-devops-iran.devgroup.fun.&security=none#V2rayArgon-csoc2szw
@@ -83,7 +84,6 @@ vless://432e1e8b-18ce-488f-8203-2ba54b2fb61f@104.21.21.31:443?security=tls&sni=u
 vless://42f64a47-7b67-417c-8445-e5a823c9ec4a@185.209.21.36:41569?path=/&security=none&encryption=none&host=tgju.org&type=ws#@AYMH19+کانال+تلگرام
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#@awlix_ir
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#@awlix_ir
-vless://42c102ba-f4a6-4c9d-8d78-7e8f64bc5c3d@68.183.3.107:21790?path=/&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://42c102ba-f4a6-4c9d-8d78-7e8f64bc5c3d@68.183.3.107:21790?path=/&security=none&encryption=none&type=ws#@vmesskhodam
 vless://42795c1c-acab-46f5-8c10-a86de801411b@104.18.26.90:443?path=/iTCBmrOFrKpdwUWZ?ed&security=tls&alpn=http/1.1&encryption=none&host=s3.main-2.workers.dev&fp=chrome&type=ws&sni=s3.mAIN-2.WorKeRs.Dev#@CaV2ray ⚡️
 vless://42795c1c-acab-46f5-8c10-a86de801411b@104.18.26.90:443?encryption=none&security=tls&sni=s3.mAIN-2.WorKeRs.Dev&fp=chrome&type=ws&host=s3.main-2.workers.dev&path=/iTCBmrOFrKpdwUWZ?ed#@CaV2ray ⚡️
