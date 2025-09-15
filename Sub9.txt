@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
+vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=/?TELEGRAM_JOIN_JKVPN_JKVPN_JKVPN_JKVPN&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=uk-09.allhubb.info&fp=chrome&type=xhttp&sni=uk-09.allhubb.info#🇬🇧@FreakConfig
 vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=/?TELEGRAM_JOIN_JKVPN_JKVPN_JKVPN_JKVPN&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=uk-09.allhubb.info&fp=chrome&type=xhttp&sni=uk-09.allhubb.info#@AblNet7 🇮🇷 نت ملی
 vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=/?@MARAMBASHI_MARAMBASHI&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=uk-09.allhubb.info&fp=chrome&type=xhttp&sni=uk-09.allhubb.info#@Hddify
 vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=/?@MARAMBASHI_MARAMBASHI&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=uk-09.allhubb.info&fp=chrome&type=xhttp&sni=uk-09.allhubb.info#@AblNet7 🇮🇷 نت ملی
@@ -501,4 +502,3 @@ vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.5:443?path=/?ed=443&sec
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.5:443?path=/?ed=443&security=tls&encryption=none&host=maquery.ir.xmhkjgqwzneevm.mapircdn.com&fp=chrome&type=ws&sni=maquery.ir#@CaV2ray ⚡️
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.5:443?path=/?ed=443&security=tls&encryption=none&host=1001cns.com.wnticacenidk1.abrmahanair.com&fp=chrome&type=ws&sni=1001cns.com#@CaV2ray ⚡️
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.200:443?path=/?ed=443&security=tls&encryption=none&host=mehrnews.com.oadeflantrogmtr3.abrirmahan.com&fp=chrome&type=ws&sni=mehrnews.com#@CaV2ray ⚡️
-vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.120:443?path=/?ed=443&security=tls&encryption=none&host=seedleech.ir.oadeflantrogmnl2.airasiadl.com&fp=chrome&type=ws&sni=seedleech.ir#@CaV2ray ⚡️
