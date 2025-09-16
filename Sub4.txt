@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
+vless://ea6320c2-67f9-40c0-9e58-95641d2ffbfd@2.189.59.2:443?security=tls&encryption=none&type=grpc&sni=mci.unlimiteddev-vpn.Com.&fp=chrome&serviceName=Channel:@UnlimitedDev#Awlix_ir
+vless://ea03f531-04d8-402b-b95f-598ab9934933@khareg.azaddm.ir:6684?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇺🇲@FreakConfig
 vless://ea03f531-04d8-402b-b95f-598ab9934933@159.203.65.250:4918?security=reality&encryption=none&pbk=9x8pWtP9-IziwcCbi5ecBlWQasNRvcvUze1wmEtWkww&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=5297dc1dbb9e1a4b#🇺🇲@FreakConfig
 vless://e9f0a1b2-c3d4-9012-5678-89abcdef0123@104.19.45.192:443?type=ws&encryption=none&host=aslivpn.pages.dev&path=/VLESS@PlanAsli&security=tls&sni=aslivpn.pages.dev&fp=chrome#@CaV2ray ⚡️
 vless://e9e53a72-2c35-4c00-8d8d-9d176e42332a@Evay_vpn.heloisfood.ir:8678?type=xhttp&mode=auto&host=EVAY_VPN-EVAY_VPN-EVAY_VPN-EVAY_VPN.heloisfood.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed=2048&security=none#2🇫🇮 | @Evay_vpn
@@ -500,5 +502,3 @@ vless://da64947d-62e7-402b-9309-257886447b16@www.speedtest.net:443?path=/@Alfred
 vless://da370882-ecfa-4aca-b713-af43492dd904@45.12.139.106:8443?security=reality&encryption=none&pbk=XzATi6CT1whlPAlhvAjbm0grpFHjZfYAfW7yIB9MC2g&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=26a70553#🇱🇺@vpnserverrr👈🏻کانال تلگرامی
 vless://da370882-ecfa-4aca-b713-af43492dd904@45.12.139.106:8443?security=reality&encryption=none&pbk=XzATi6CT1whlPAlhvAjbm0grpFHjZfYAfW7yIB9MC2g&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=26a70553#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://da370882-ecfa-4aca-b713-af43492dd904@45.12.139.106:8443?security=reality&encryption=none&pbk=XzATi6CT1whlPAlhvAjbm0grpFHjZfYAfW7yIB9MC2g&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=26a70553#@Selinc
-vless://da370882-ecfa-4aca-b713-af43492dd904@45.12.139.106:8443?security=reality&encryption=none&pbk=XzATi6CT1whlPAlhvAjbm0grpFHjZfYAfW7yIB9MC2g&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=26a70553#@Dropcube
-vless://da1668a7-3a7f-405d-874e-c28652c68c4d@172.105.57.184:2321?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
