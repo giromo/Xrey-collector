@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.99.37:80?path=/?ed=2560&security=&encryption=none&host=barayeiran.nastaranh.dpdns.org&fp=chrome&type=ws&sni=barayeiran.nastaranh.dpdns.org#@Mrconfig_Channel 🩵
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=/?ed=2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#@CaV2ray ⚡️
 vless://bbb1ce8e-684b-427f-89a0-42b8980f85f3@164.92.157.143:37677?path=/&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://bbacaf6d-292c-463a-ac31-98b02685e6b5@m78a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.239.156:8443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Channel-@vmesskhodam
@@ -141,7 +143,6 @@ vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?security=non
 vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?security=none&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#🇫🇮@FreakConfig
 vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?security=none&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#All-@IRAN_V2RAY1
 vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&security=&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#AZADIV2RAYY NL 🇳🇱
-vless://b303f223-f363-4e5f-96c5-3cc8c086c3b4@68.183.39.110:39155?path=/&security=none&encryption=none&type=ws#r♡yaッ
 vless://b2c3d4e5-f6a7-2345-8901-bcdef0123456@45.35.126.48:443?type=tcp&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=GHI1234567890abcdef1234567890abcdef#@CaV2ray ⚡️
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=/?ed=2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=chrome&type=ws&sni=coco.mahmoodchitooz.dpdns.org#@CaV2ray ⚡️
 vless://b280b8b6-4ab1-4d2e-82f0-9cac82ad3116@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.byte-server.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
@@ -175,7 +176,6 @@ vless://afea8fb8-1b5b-42bb-ea18-22bdcef1bcee@binex.tc.azinpsn.ir:2053?type=ws&pa
 vless://afea8fb8-1b5b-42bb-ea18-22bdcef1bcee@172.66.40.99:80?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=speeeDeio.xpnvip.ir.&security=none#BinexTiFy🪸-oub56dna
 vless://afea8fb8-1b5b-42bb-ea18-22bdcef1bcee@172.66.40.99:80?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=speeeDeio.xpnvip.ir.&type=ws#@bored_vpn
 vless://afea8fb8-1b5b-42bb-ea18-22bdcef1bcee@162.55.191.57:2053?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=miro.com&type=ws#@bored_vpn
-vless://af93dbb8-f28a-4734-944f-538287410fd2@m32a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#r♡yaッ
 vless://af93dbb8-f28a-4734-944f-538287410fd2@m32a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
 vless://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80?type=ws&host=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&path=/vless/&security=none#🇩🇪 @Evay_vpn
 vless://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇩🇪 | @External_Net
