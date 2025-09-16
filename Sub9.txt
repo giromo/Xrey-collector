@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://68e6dee9-9448-49ba-a3b6-1cbcc7d5f199@m76a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@Hddify
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.66.138.99:80?path=/?ed=2570&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&type=ws#@CaV2ray ⚡️
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.17.147.22:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&fp=chrome&type=ws&sni=varzesh3.varzesh.dpdns.org#@CaV2ray ⚡️
 vless://68adadb6-8159-4b39-9d6b-d3bc72b78e66@www.speedtest.net:8880?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048&security=&encryption=none&host=www.speedtest.net.amin-app.ir&type=httpupgrade#🇩🇪@Alfred_Config
@@ -502,3 +501,4 @@ vless://4d93f16b-d2d2-4267-819e-5d5c297efac5@173.245.59.132:8080?path=/@MaSTeRSe
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=/Telegram@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@CaV2ray ⚡️
 vless://4d80bf49-61ba-4c03-ba99-b8beb4b27b8b@91.107.135.195:2083?type=tcp&path=/@cconfig_v2ray@cconfig_v2ray@cconfig_v2ray@cconfig_v2ray&host=uploadboy.ir&headerType=http&security=none#👉💥Join @Cconfig_v2ray Follow⚡👈
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDqC1jRn6?ed&security=tls&encryption=none&host=azadnet05.pages.dev&type=ws&sni=azadnet05.pages.dev#@AYMH19+کانال+تلگرام
+vless://4d6459ba-5f89-495e-b5a0-d8ded13ca07f@91.107.141.122:2086/?type=tcp&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=bmw.com&headerType=http&security=none#@ZedBaz_vpn2
