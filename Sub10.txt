@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://4d93f16b-d2d2-4267-819e-5d5c297efac5@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.byte-server.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
 vless://4d93f16b-d2d2-4267-819e-5d5c297efac5@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.byte-server.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=/Telegram@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@CaV2ray ⚡️
 vless://4d80bf49-61ba-4c03-ba99-b8beb4b27b8b@91.107.135.195:2083?type=tcp&path=/@cconfig_v2ray@cconfig_v2ray@cconfig_v2ray@cconfig_v2ray&host=uploadboy.ir&headerType=http&security=none#👉💥Join @Cconfig_v2ray Follow⚡👈
@@ -502,3 +501,4 @@ vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@wWw.SpeedTesT.Net:443?path=/wss9500?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=new2.hosting-mmd.ir.&fp=chrome&type=httpupgrade&sni=new2.hosting-mmd.ir.#@CaV2ray ⚡️
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@pishgam.sdcards.ir:80?path=/wss9500?ed=2560&security=none&encryption=none&host=new2.hosting-mmd.ir.&type=httpupgrade#@CaV2ray ⚡️
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:9090?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#@CaV2ray ⚡️
+vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:7845?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#@CaV2ray ⚡️
