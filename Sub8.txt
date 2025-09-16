@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@91.99.153.13:443?type=xhttp&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=www.tgju.org&pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&sid=cd0b#🇩🇪 @Evay_vpn
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.5.226:80?security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@Geek_Spot
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.208.130:80?path=Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@CaV2ray ⚡️
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.208.126:80?security=&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@Geek_Spot
@@ -501,4 +502,3 @@ vless://6b6c9ce9-0a23-4b1b-cd03-35493c801007@cumhuriyet.com.tr:8080?type=ws&host
 vless://6b690c69-7301-44c4-81e8-9d5d7e8263a6@51.38.98.69:443?security=reality&encryption=none&pbk=-3sZE2OPDhkNtxufF2YqPmoa5hqVna5zalfJfrUiMm0&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ecd6615548c2bddb#All_@IRAN_V2RAY1
 vless://6b690c69-7301-44c4-81e8-9d5d7e8263a6@51.38.98.69:443?security=reality&encryption=none&pbk=-3sZE2OPDhkNtxufF2YqPmoa5hqVna5zalfJfrUiMm0&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ecd6615548c2bddb#@Selinc
 vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?path=/?ed=2048&security=none&encryption=none&host=VAST-RAdIo.zuLAIR.oRG&type=ws#All--@IRAN_V2RAY1
-vless://6b1ad0d7-3992-4f4b-95e2-ac643f77768e@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46161-2
