@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
+vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@wWw.SpeedTesT.Net:443?path=/wss9500?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=new2.hosting-mmd.ir.&fp=chrome&type=httpupgrade&sni=new2.hosting-mmd.ir.#@CaV2ray ⚡️
+vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@pishgam.sdcards.ir:80?path=/wss9500?ed=2560&security=none&encryption=none&host=new2.hosting-mmd.ir.&type=httpupgrade#@CaV2ray ⚡️
+vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:9090?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#@CaV2ray ⚡️
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:7845?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#@CaV2ray ⚡️
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:5109?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#@CaV2ray ⚡️
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:2090?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#@CaV2ray ⚡️
@@ -499,6 +502,3 @@ vless://18af2c68-edb3-4224-b8cb-5c7b42450a36@Zula.iR:80?type=ws&path=/telegram,@
 vless://18af2c68-edb3-4224-b8cb-5c7b42450a36@188.114.97.1:80?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=binextv.iransheep.web.tr.&type=ws#@bored_vpn
 vless://186d5840-6de2-4fe1-8080-eeb7e0deb1ab@xpanel-ir.panelfreedom.com:2092?security=&encryption=none&host=parsabr.com&headerType=http&type=tcp#@Mrconfig_Channel 🩵
 vless://17b62bb4-0b76-474b-9d7f-f0178e9518e5@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷1 tunnel: @EVAY_VPN 🚀  100Gb❤️ - پایان حجم❌
-vless://17b62bb4-0b76-474b-9d7f-f0178e9518e5@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷1 tunnel: @EVAY_VPN 🚀
-vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?security=tls&encryption=none&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=/?ed=2560&sni=bpb-worker-panel-h5f.pages.dev&fp=chrome#[Awlix_ir]
-vless://17a69d0d-9102-4d54-b241-2d92e7bb1d44@91.98.21.55:51479?security=reality&encryption=none&pbk=B2NhynX6fULgqNKDOyHWHV0tMUO8XKM_SShFu5N8ZmQ&fp=chrome&spx=/&type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&sni=www.cdn77.com#Telegram : @VPN_ROOM🇩🇪
