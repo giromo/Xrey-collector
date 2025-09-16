@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.17.147.22:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&fp=chrome&type=ws&sni=varzesh3.varzesh.dpdns.org#@CaV2ray ⚡️
-vless://68adadb6-8159-4b39-9d6b-d3bc72b78e66@www.speedtest.net:8880?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048&security=&encryption=none&host=www.speedtest.net.amin-app.ir&type=httpupgrade#🇩🇪@Alfred_Config
-vless://6899393a-9311-45f3-b657-ffd1689bb725@Subfourteen.iranfreedomserver.com:7005?security=reality&encryption=none&pbk=VkxXfuqbYbk_b_KzkphMsR4apMZXAcfnWKAErqyghlY&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@CaV2ray ⚡️
-vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tradingview.com&fp=chrome&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&sid=9917d2350096&type=tcp&headerType=none#@AYMH19 کانال تلگرام
 vless://68963438-da5b-4ce1-a51f-04e75724e249@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=raphaelmercer.pages.dev&path=/?ed=2560&sni=raphaelmercer.pages.dev&fp=chrome&alpn=h3#mci-mtn🇬🇧[Awlix_ir]
 vless://680e9152-1196-4451-a1fd-60830b0f3e4b@195.201.32.169:42671?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://680e9152-1196-4451-a1fd-60830b0f3e4b@195.201.32.169:42671?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
@@ -502,3 +498,7 @@ vless://4cc92e15-41a1-4c06-a16d-2e0e6970bfcb@m72a.vip784.com:33801?security=&enc
 vless://4cb539cb-7e01-4c00-90a1-b89b66881e73@172.245.33.163:10088?security=reality&encryption=none&pbk=CWO043TqIdMiwVVNBydNwdVuzKz3K8p9IIEynpR_dFs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=learn.microsoft.com&sid=20182bcc0f3415d9#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://4cb3b5bb-443b-411a-b5f3-4f644062a4c2@172.66.40.99:80?type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.js.elmahstyle.xyz.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇳🇱@Shh_Proxy | All¹
 vless://4cb12ac3-f4fa-47bc-a009-14b5b7d83510@99.199.73.53:6068?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://4ca18ce2-68a3-454c-aae8-aa5664ecd279@104.16.1.106:2082?path=/?ed=2052&security=none&encryption=none&host=www.yashar.ip-ddns.com&type=ws#🇩🇪@FreakConfig
+vless://4c835bff-4f4d-4608-bb21-120099089688@104.21.36.57:443?path=/wsv/4c835bff-4f4d-4608-bb21-120099089688?ed=2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee&security=tls&encryption=none&type=ws&sni=orange.fullmargintraders.com#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
+vless://4c600df7-b464-4f01-8d61-85fc3c068215@159.65.194.42:55512?path=/&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
+vless://4c360a19-8d5d-4c7b-b2cd-a4825714554a@68.183.49.4:2053?security=reality&encryption=none&pbk=G6mshB36vZocfQp04RGcOjWFs52JjJhdvpI7wApQf00&headerType=none&fp=chrome&type=tcp&sni=www.openstreetmap.org&sid=d7#@AblNet7 🇮🇷 نت ملی
