@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://b186e4de-9f54-426e-9a8d-fbd8927ae5ac@45.8.146.207:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇺🇸 | @External_Net
-vless://b1723c14-8180-4311-a65f-fc2665c6b51f@188.114.98.112:80?path=/JOIN---PLANB_PROXY?ed=2560&security=none&encryption=none&host=JOIN---ELiV2-RAY.cloudns.pro.&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
-vless://b16ad07c-23ce-441e-bd3f-d7e4de6ff833@164.90.200.212:21724?path=/&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
-vless://b111f8c5-1244-4ec8-8d74-79c13ef9037e@102.177.189.248:2082?security=&encryption=none&host=q6.19kalA.co&type=ws#@Geek_Spot
-vless://b0e55a84-681e-4bf8-96be-a7f617dd5afc@152.89.12.77:443?security=none&encryption=none&headerType=none&type=tcp#All-@IRAN_V2RAY1
 vless://b062ed1b-8927-41e2-a0a6-34a4432b51b6@164.138.202.139:10777?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=/&security=none&encryption=none&type=ws#All_@IRAN_V2RAY1
 vless://b03df2ab-e657-4d94-a7b2-368dcffdbc5d@188.114.98.112:2095?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560&security=none&encryption=none&host=ELENA.ddNS-ip.net.&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -502,3 +497,8 @@ vless://9ec8ff64-b8b0-4ed3-a216-129a48fa689a@148.113.207.224:443?path=/ws&securi
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#@Selinc
 vless://9eada7bf-1954-4578-ae35-64e601125189@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#💎 @AblNet7 💎
+vless://9e7b3b9f-ab4b-4f2c-9529-2fc61840db40@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-fg-4.abar-farz.filegear-sg.me&type=ws&sni=rayan-fg-4.abar-farz.filegear-sg.me#MCI-@IRAN_V2RAY1
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:8443?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:8443?path=/&security=tls&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.201:443?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
+vless://9e55dc25-81b3-455c-898c-1fcdd90e55f0@141.227.170.209:34219?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
