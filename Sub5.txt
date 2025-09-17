@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
+vless://da370882-ecfa-4aca-b713-af43492dd904@45.12.139.106:8443?security=reality&encryption=none&pbk=XzATi6CT1whlPAlhvAjbm0grpFHjZfYAfW7yIB9MC2g&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=26a70553#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://da370882-ecfa-4aca-b713-af43492dd904@45.12.139.106:8443?security=reality&encryption=none&pbk=XzATi6CT1whlPAlhvAjbm0grpFHjZfYAfW7yIB9MC2g&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=26a70553#@Selinc
 vless://da370882-ecfa-4aca-b713-af43492dd904@45.12.139.106:8443?security=reality&encryption=none&pbk=XzATi6CT1whlPAlhvAjbm0grpFHjZfYAfW7yIB9MC2g&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=26a70553#@Dropcube
 vless://da1668a7-3a7f-405d-874e-c28652c68c4d@172.105.57.184:2321?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -103,7 +104,6 @@ vless://d5436600-7461-43ed-b7fa-4eeb00f7d8d4@104.238.70.255:80?path=/Telegram�
 vless://d50fcaeb-80c7-46ed-9ca8-2a6c708b6c67@de.hpcdn.info:443?encryption=none&security=tls&sni=afrodita.lemoex.blog&fp=chrome&type=xhttp&host=afrodita.lemoex.blog&path=/1003/mmad&mode=auto#@Mrconfig_Channel 🩵
 vless://d4e5f6a7-b8c9-4567-0123-def012345678@172.69.178.43:443?type=ws&encryption=none&host=aslivpn.pages.dev&path=/VLESS@PlanAsli&security=tls&sni=aslivpn.pages.dev&fp=chrome#@CaV2ray ⚡️
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#🇳🇱@FreakConfig
-vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#Channel id: @ShadowProxy66 🇷🇺
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#@Selinc
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=wa.sfasti.ru&fp=chrome&security=reality&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#Channel id: @ShadowProxy66 🇷🇺
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#All-@IRAN_V2RAY1
@@ -253,7 +253,6 @@ vless://cc3afbee-5a0c-475e-85a0-fcb15236e2f7@m61a.vip784.com:33801?security=none
 vless://cc3afbee-5a0c-475e-85a0-fcb15236e2f7@m61a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://cc3afbee-5a0c-475e-85a0-fcb15236e2f7@m61a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://cbfaa4fa-8393-43db-a052-d86543462f0d@sss37704.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
-vless://cbfaa4fa-8393-43db-a052-d86543462f0d@sss37704.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://cbfaa4fa-8393-43db-a052-d86543462f0d@91.99.27.66:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://cbc68f99-54f8-4605-8fac-69d8c9fdb1e7@135.181.201.193:51168?security=none&encryption=none&headerType=none&type=tcp#🚀کانال تلگرام : injastvpn@
 vless://cbc53b5c-c7c1-4c6c-91fe-83711f277f74@190.93.244.170:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=&encryption=none&host=v2ngnet.nanvrfood.ir&type=httpupgrade#🇩🇪 @v2ngnet
@@ -502,3 +501,4 @@ vless://bbef1e1b-4061-45ce-a6e0-4cec2fe38cc4@m41a.vip784.com:33801?security=none
 vless://bbd95c2b-7100-4503-915f-6210d23c4952@206.189.106.37:443?path=/ws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&fp=chrome&type=ws&sni=zula.ir#@HiByeVPNN👈⚡❤️‍🔥
 vless://bbd95c2b-7100-4503-915f-6210d23c4952@206.189.106.37:443?path=/ws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&fp=chrome&type=ws&sni=zula.ir#@HiByeVPNN👈⚡
 vless://bbd32725-822d-430f-b2b1-de06a72f7333@parsvds.com.ir-outline.click:443?security=reality&encryption=none&pbk=4MdpN5vUjbOa5FwB6j9hyvii52ndc8Wq_NAg0iuuMnQ&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&spx=/&type=tcp&sni=zhaket.com&sid=66fff32920#🇩🇪 | @External_Net
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.99.37:80?path=/?ed=2560&security=&encryption=none&host=barayeiran.nastaranh.dpdns.org&fp=chrome&type=ws&sni=barayeiran.nastaranh.dpdns.org#@Mrconfig_Channel 🩵
