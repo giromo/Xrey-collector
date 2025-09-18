@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
+vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss57281.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
+vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss57281.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss55501.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss55501.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss49730.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @Hddify
@@ -500,5 +502,3 @@ vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.183:443?security=reality
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.183:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.183:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.183:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@V2rayAlpha-All-25
-vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.183:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@Selinc
-vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.183:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ru.sfasti.ru&fp=chrome&security=reality&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#Channel id: @ShadowProxy66 🇷🇺
