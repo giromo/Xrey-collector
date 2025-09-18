@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
+vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNG_1378
+vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://e88fedb7-90f0-4f78-bcc3-5a843d84e455@195.201.32.169:10138?type=grpc&serviceName=/@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&authority=&security=none#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://e86a8605-2b6a-4cfb-c130-594761b47a74@www.speedtest.net:2082?type=httpupgrade&path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048&host=login.website-shop.ir&security=none#🇩🇪@Alfred_Config
 vless://e82a2294-7fe7-4482-8c8a-8b39e6aadd01@151.101.2.57:80?mode=auto&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=shlnlpld.global.ssl.fastly.net&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -500,5 +502,3 @@ vless://d54fcfca-b7f5-46b0-9535-430dc3e6304c@2.ariyanln.com:5051?mode=auto&path=
 vless://d54fcfca-b7f5-46b0-9535-430dc3e6304c@2.ariyanln.com:1?security=none&encryption=none&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://d5436600-7461-43ed-b7fa-4eeb00f7d8d4@91.124.127.255:80?path=/Telegram🇨🇳 @WangCai2 /?ed=2560&security=&encryption=none&host=myvps.nilphreakz.me&fp=chrome&type=ws#🇺🇸 机场推荐:dafei.de 美国 124
 vless://d5436600-7461-43ed-b7fa-4eeb00f7d8d4@45.146.201.255:80?path=/Telegram🇨🇳 @WangCai2 /?ed=2560&security=&encryption=none&host=myvps.nilphreakz.me&fp=chrome&type=ws#🇺🇸 机场推荐:dafei.de 美国 66
-vless://d5436600-7461-43ed-b7fa-4eeb00f7d8d4@194.76.18.255:80?path=/Telegram🇨🇳 @WangCai2 /?ed=2560&security=&encryption=none&host=myvps.nilphreakz.me&fp=chrome&type=ws#🇺🇸 机场推荐:dafei.de 美国 298
-vless://d5436600-7461-43ed-b7fa-4eeb00f7d8d4@104.238.70.255:80?path=/Telegram🇨🇳 @WangCai2 /?ed=2560&security=&encryption=none&host=myvps.nilphreakz.me&fp=chrome&type=ws#🇺🇸 机场推荐:dafei.de 美国 153
