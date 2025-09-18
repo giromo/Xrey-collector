@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
+vless://b2c3d4e5-f6a7-2345-8901-bcdef0123456@45.35.126.48:443?type=tcp&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=GHI1234567890abcdef1234567890abcdef#@CaV2ray ⚡️
+vless://b2af8cd4-7788-43a4-ae00-f632632245af@Evay_vpn.heloisfood.ir:8678?type=xhttp&mode=auto&host=EVAY_VPN-EVAY_VPN-EVAY_VPN-EVAY_VPN.heloisfood.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed=2048&security=none#2🇫🇮 | @Evay_vpn
 vless://b2af8cd4-7788-43a4-ae00-f632632245af@Evay_vpn.heloisfood.ir:1530?type=xhttp&mode=auto&host=EVAY_VPN---EVAY_VPN---EVAY_VPN---EVAY_VPN&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=stackoverflow.com&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&sid=077dc29a23d311f2#1🇫🇮 | @Evay_vpn
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=/?ed=2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=chrome&type=ws&sni=coco.mahmoodchitooz.dpdns.org#@CaV2ray ⚡️
 vless://b280b8b6-4ab1-4d2e-82f0-9cac82ad3116@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.byte-server.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
@@ -500,5 +502,3 @@ vless://9f8a9503-562a-4c09-87e5-e90c9599e852@Www.Speedtest.net:2052?path=/?ed=20
 vless://9f8a9503-562a-4c09-87e5-e90c9599e852@Www.Speedtest.net:2052?path=/?ed=2048&security=none&encryption=none&host=www.speedtest.net.RealitySec4.iR.&type=httpupgrade#🇬🇧 | England - @EXPRESSVPN_420
 vless://9f8a9503-562a-4c09-87e5-e90c9599e852@Www.Speedtest.net:2052?path=/?ed=2048&security=none&encryption=none&host=www.speedtest.net.RealitySec3.iR.&type=httpupgrade#🇳🇱 | Netherland - @EXPRESSVPN_420
 vless://9f8a9503-562a-4c09-87e5-e90c9599e852@Www.Speedtest.net:2052?path=/?ed=2048&security=none&encryption=none&host=www.speedtest.net.RealitySec1.iR.&type=httpupgrade#🇩🇪 | @EXPRESSVPN_420 - CloudFlare
-vless://9f6b70a1-ae9a-49ac-b9bd-0e41c99ca23c@edge-resources.cyberscaler.net:8280?security=none&encryption=none&host=assets.global.fastly.net&headerType=http&type=tcp#💎 @AblNet7 💎
-vless://9f6b70a1-ae9a-49ac-b9bd-0e41c99ca23c@edge-resources.cyberscaler.net:8280?security=none&encryption=none&host=assets.global.fastly.net&headerType=http&type=tcp#@AblNet7 🇺🇲
