@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
+vless://34d532fa-49d9-4d4b-a129-6167e63d0725@speedtestcustom.com:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#tm⚡|@lightning6
 vless://34d532fa-49d9-4d4b-a129-6167e63d0725@speedtestcustom.com:80?path=-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#Telegram@ConfingV2RaayNG
 vless://34d02e5d-59cd-453c-a857-32c9ae27b240@167.172.186.211:443?path=/ws&security=tls&encryption=none&host=167.172.186.211&fp=chrome&type=ws&sni=zula.ir#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -501,4 +502,3 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?encryption=none&se
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
