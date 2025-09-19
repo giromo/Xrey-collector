@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
@@ -162,8 +157,6 @@ vless://0a6936a5-12cb-4038-86bb-562894b7816f@154.206.12.255:80?path=/Telegram�
 vless://0a6936a5-12cb-4038-86bb-562894b7816f@104.239.72.255:80?path=/Telegram🇨🇳 @WangCai2 /?ed=2560&security=&encryption=none&host=myvps.nilphreakz.me&fp=chrome&type=ws#🇺🇸 机场推荐:dafei.de 美国 155
 vless://0a5cb919-247b-4e6c-e1ee-99ae0e58798d@www.speedtest.net:8080?type=ws&host=bia-to-unlimiteddev.unlimiteddev-service.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link2
 vless://0a5cb919-247b-4e6c-e1ee-99ae0e58798d@numberland.ir:8080?type=ws&host=bia-to-unlimiteddev.unlimiteddev-service.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link1
-vless://0a5cb919-247b-4e6c-e1ee-99ae0e58798d@172.67.72.39:8080?path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480&security=none&encryption=none&host=bia-to-unlimiteddev.unlimiteddev-service.ir&type=ws#@bored_vpn
-vless://0a5cb919-247b-4e6c-e1ee-99ae0e58798d@104.17.147.22:8080?path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480&security=none&encryption=none&host=bia-to-unlimiteddev.unlimiteddev-service.ir&type=ws#@bored_vpn
 vless://0a30769a-400b-4501-a7f0-47d4eea82ae3@135.125.182.74:38413?security=none&encryption=none&headerType=none&type=tcp#IR-@IRAN_V2RAY1
 vless://0a2439d3-479f-44ff-f968-649d3bd1acb6@numberland.ir:80?flow=&type=ws&host=joinbdebe.vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbotخرید سرور شخصی
 vless://09c23aca-e8a3-4b09-e034-80c429d90e34@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-bb2apu9g
@@ -204,8 +197,6 @@ vless://06a69ade-0ebf-44dc-8f06-69dda39be844@www.speedtest.net:2052?flow=&type=w
 vless://06a69ade-0ebf-44dc-8f06-69dda39be844@www.speedtest.net:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
 vless://06a69ade-0ebf-44dc-8f06-69dda39be844@numberland.ir:2052?type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
 vless://06a69ade-0ebf-44dc-8f06-69dda39be844@172.67.72.39:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🇩🇪 Telegram @SRCVPN ²
-vless://06a69ade-0ebf-44dc-8f06-69dda39be844@104.26.4.112:2052?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none&encryption=none&host=Vmessorg.paradoxone.ir&type=ws#@bored_vpn
-vless://06a69ade-0ebf-44dc-8f06-69dda39be844@104.17.147.22:2052?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none&encryption=none&host=Vmessorg.paradoxone.ir&type=ws#@bored_vpn
 vless://067c2305-53be-4f79-c212-aadd6ceb5f92@Www.speedtest.net:2095?type=httpupgrade&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=change.iransheep.web.tr.&security=none#🇩🇪 | XpnTeam - Telegrams-qc0enood
 vless://067c2305-53be-4f79-c212-aadd6ceb5f92@104.17.147.22:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=change.iransheep.web.tr.&type=httpupgrade#@bored_vpn
 vless://067905f4-f79e-4ba4-b1d5-19551d8ca467@63.141.128.30:80?security=none&encryption=none&type=ws&host=c.jOin.zEdMoDeOn.oNl.&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#TEL: @V2RAYNG_IP🇩🇪(2)
@@ -502,3 +493,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#All_@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#All-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@Selinc
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@IRAN_V2RAY1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#@Selinc
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#@V2RAYNG_1378
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#@Selinc
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#All-@IRAN_V2RAY1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#All--@IRAN_V2RAY1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#@V2RAYNG_1378
