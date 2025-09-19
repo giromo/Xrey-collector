@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v15.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@CaV2ray ⚡️
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v14.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@CaV2ray ⚡️
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v13.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@CaV2ray ⚡️
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v12.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@CaV2ray ⚡️
@@ -502,3 +501,4 @@ vless://d39ae55e-234b-4365-9263-a7e20ebbe233@159.223.235.238:22231?path=/&securi
 vless://d39ae55e-234b-4365-9263-a7e20ebbe233@159.223.235.238:22231?path=/&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://d39ae55e-234b-4365-9263-a7e20ebbe233@159.223.235.238:22231?flow=&type=ws&host=&path=/&security=none#Channel : @vmessorg🏴🏳
 vless://d378d3d0-c521-4874-a6f3-21794398cf9c@test.barayekhudam.ir:59697?mode=auto&path=/&security=reality&encryption=none&pbk=HDE3ZT4rZPr6RIpgLK6dn6FGvolXLJtwJEeDEC4N1Eg&fp=chrome&spx=/&type=xhttp&sni=bimeh.com&sid=c5a5b0#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@EXPRESSVPN_420
+vless://d36f457f-17a9-4891-a113-322ec6792917@m24a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@vmesskhodam
