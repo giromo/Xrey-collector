@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
+vless://9b4b9e13-ff84-4415-8b2b-416b987016b9@172.66.40.99:80?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=az209.dr-mojtaba.ir&type=ws#@bored_vpn
+vless://9af68224-c0ba-4323-a86c-f095b88a26e8@tt1.hennessypro.site:4001?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#کانال+تلگرام+AYMH19@
 vless://9ac0168d-dffd-44bf-87cb-ad16055ca8cc@tab1.mgpingmg.shop:8880?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://9ac0168d-dffd-44bf-87cb-ad16055ca8cc@tab1.mgpingmg.shop:8880?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://9ac0168d-dffd-44bf-87cb-ad16055ca8cc@tab1.mgpingmg.shop:8880?security=&encryption=none&headerType=none&type=tcp#@DropCube⚡❤️‍🔥
@@ -500,5 +502,3 @@ vless://73cbb67b-42c5-415a-adf1-a7ff765109ce@speedtestcustom.com:80?path=/-LiV2r
 vless://73a6237b-4cdf-42e7-aab6-c80b5948eade@www.speedtest.net:8080?type=ws&host=bia-to-unlimiteddev.unlimiteddev-service.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link2
 vless://73a6237b-4cdf-42e7-aab6-c80b5948eade@numberland.ir:8080?type=ws&host=bia-to-unlimiteddev.unlimiteddev-service.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link1
 vless://738ebc1c-c44a-418e-8c2c-f9e2efe1f4fe@91.99.70.212:443?type=grpc&serviceName=@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk&fp=chrome&sni=www.cdn77.com&sid=&spx=/#Telegram : @VPN_ROOM 🇩🇪
-vless://7369d8e8-12b5-4da3-9c77-f874d9abb632@germany.aparat-movies-download.ir:82?security=&encryption=none&headerType=none&type=tcp#Channel-@vmesskhodam
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@89.116.180.7:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=/?ed=8880-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#⚠️ | @EVAY_VPN
