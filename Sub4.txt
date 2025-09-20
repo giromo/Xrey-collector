@@ -174,7 +174,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&securit
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸@vpnserverrr👈🏻(unlimited)
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#azadiiivpn 🎀
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1-All
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸[🔐 @AblNet7 ] vless-US
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?mode=gun&security=none&encryption=none&type=grpc#azadiiivpn 🎀
@@ -502,3 +501,4 @@ vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.4.90:443?path=/&security=tls
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.4.90:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#@Selinc
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#MCI-_@IRAN_V2RAY1
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#@Dropcube

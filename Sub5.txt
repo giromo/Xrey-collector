@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
-vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#@Dropcube
 vless://d8665d45-8103-46e9-9cb7-8902bb7559b4@hk3.kaipi.link:443?path=/texaws&security=tls&encryption=none&host=hk3.kaipi.link&type=ws&sni=hk3.kaipi.link#@HiByeVPNN👈⚡❤️‍🔥
 vless://d8506e85-4631-4513-9651-5914b8b33e5d@www.speedtest.net:2087?type=httpupgrade&path=/@saeedtelcom?ed=2048&host=unitedkingdom.iranfastspeed.net&security=tls&fp=chrome&alpn=h2,http/1.1&sni=unitedkingdom.iranfastspeed.net#@CaV2ray ⚡️
 vless://d846541c-519b-48c0-9c8a-d52b2e8e8330@www.speedtest.net:2086?path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&security=&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=mahan.mmadvip8563.ir&type=ws#@ghalagyann
@@ -160,7 +159,6 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&secur
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-19.access.name.ng&type=ws&sni=lease-19.access.name.ng#@Selinc
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-17.access.name.ng&fp=chrome&type=ws&sni=lease-17.access.name.ng#@IRAN_V2RAY1
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-15.access.name.ng&type=ws&sni=lease-15.access.name.ng#🇬🇧 | @External_Net
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-2.access.name.ng&fp=chrome&type=ws&sni=hetzner-2.access.name.ng#@Selinc
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-12.apple.name.ng&type=ws&sni=hetzner-12.apple.name.ng#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-12.apple.name.ng&type=ws&sni=hetzner-12.apple.name.ng#→ @Hddify
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-12.apple.name.ng&type=ws&sni=hetzner-12.apple.name.ng#All_@IRAN_V2RAY1
@@ -502,3 +500,5 @@ vless://b37596da-6f80-4dcd-f75c-c3c7b25922da@www.speedtest.net:8080?type=ws&host
 vless://b37596da-6f80-4dcd-f75c-c3c7b25922da@numberland.ir:8080?type=ws&host=Unlimiteddev-join.paradoxone.IR&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link1
 vless://b32d0323-b12b-4b63-aff3-00de09817f9d@deu44.unlockedworld.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#[🇩🇪]
 vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?security=none&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?security=none&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#All-@IRAN_V2RAY1
+vless://b2cf96d6-75b4-4f23-aa9a-952bcc470464@141.227.140.105:55759?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
