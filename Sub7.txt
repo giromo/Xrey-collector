@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Xrey-collector
 #profile-web-page-url: https://github.com/giromo/Xrey-collector
+vless://9ac0168d-dffd-44bf-87cb-ad16055ca8cc@tab1.mgpingmg.shop:8880?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
+vless://9ac0168d-dffd-44bf-87cb-ad16055ca8cc@tab1.mgpingmg.shop:8880?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://9ac0168d-dffd-44bf-87cb-ad16055ca8cc@tab1.mgpingmg.shop:8880?security=&encryption=none&headerType=none&type=tcp#@DropCube⚡❤️‍🔥
 vless://9ab2c75b-cbec-4f65-9eab-061e7ab07820@78.157.59.164:22256?path=/Zarin4&security=none&encryption=none&host=ICcQy.divarcdn.com,WLnWE.snappfood.ir,egBLe.yjc.ir,fDl1g.digikala.com,3X9yY.tic.ir&fp=chrome&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://9ab2c75b-cbec-4f65-9eab-061e7ab07820@78.157.59.164:22256?path=/Zarin4&security=none&encryption=none&host=ICcQy.divarcdn.com,WLnWE.snappfood.ir,egBLe.yjc.ir,fDl1g.digikala.com,3X9yY.tic.ir&fp=chrome&type=ws#@HiByeVPNN👈
@@ -500,5 +502,3 @@ vless://73a6237b-4cdf-42e7-aab6-c80b5948eade@numberland.ir:8080?type=ws&host=bia
 vless://738ebc1c-c44a-418e-8c2c-f9e2efe1f4fe@91.99.70.212:443?type=grpc&serviceName=@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk&fp=chrome&sni=www.cdn77.com&sid=&spx=/#Telegram : @VPN_ROOM 🇩🇪
 vless://7369d8e8-12b5-4da3-9c77-f874d9abb632@germany.aparat-movies-download.ir:82?security=&encryption=none&headerType=none&type=tcp#Channel-@vmesskhodam
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@89.116.180.7:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=/?ed=8880-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#⚠️ | @EVAY_VPN
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@88.216.67.3:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=/?ed=8880-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#⚠️ | @EVAY_VPN
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@86.38.214.53:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=/?ed=8880@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#⚠️ | @EVAY_VPN
